@@ -7,55 +7,527 @@
   "title": {
     "en": "I'm sorry, I don't really understand.",
     "ja": "すみません、よくわかりません",
-    "si": null
+    "si": "සමාවෙන්න, මට හරියට තේරෙන්නේ නැහැ."
   },
   "topic": {
     "en": "Starting to Speak Japanese",
     "ja": "日本語を話し始める",
-    "si": null
+    "si": "ජපන් භාෂාව කතා කිරීම ආරම්භ කිරීම"
   },
   "level": "A1",
   "official_reference": {
     "publisher": "The Japan Foundation",
     "resource_title": "IRODORI Japanese for Life in Japan — Starter",
-    "lesson_pdf_url": null,
+    "lesson_pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L02.pdf",
     "official_download_index": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
-    "status": "title_and_topic_verified_pdf_content_pending"
+    "table_of_contents": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+    "status": "lesson_title_topic_and_activity_can_do_index_verified; detailed_pdf_audit_partial"
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
     "topic": "verified_from_official_download_index",
-    "activities": "pending",
-    "can_do": "pending",
-    "grammar_notes": "pending",
-    "kanji_words": "pending",
-    "listening_scripts": "pending",
+    "activities": "activity_names_and_can_do_verified_from_official_table_of_contents",
+    "can_do": "verified_from_official_table_of_contents",
+    "grammar_notes": "official_textbook_has_no_grammar_notes_for_starter_lesson_2",
+    "kanji_words": "katakana_focus; full_page_audit_pending",
+    "listening_scripts": "pending_full_pdf_audio_audit",
     "tips_for_life_in_japan": "pending",
     "pdf_page_mapping": "pending",
     "audio_track_mapping": "pending"
   },
   "content": {
-    "can_do": [],
-    "activities": [],
+    "can_do": [
+      {
+        "id": "l02-cd-01",
+        "summary_en": "Can ask someone to repeat something if you do not understand.",
+        "summary_si": "කෙනෙකු කියූ දෙයක් නොතේරුණොත් එය නැවත කියන ලෙස ඉල්ලා සිටිය හැකිය.",
+        "example_ja": "もういちど、お願いします。",
+        "romaji": "Mou ichido, onegaishimasu.",
+        "meaning_si": "කරුණාකර තව වරක් කියන්න."
+      },
+      {
+        "id": "l02-cd-02",
+        "summary_en": "Can ask about another person's language ability and say what languages you understand or speak.",
+        "summary_si": "අනෙක් පුද්ගලයාට කුමන භාෂාවක් පුළුවන්දැයි අසා, තමන්ට තේරෙන හෝ කතා කළ හැකි භාෂා ගැන සරලව පැවසිය හැකිය.",
+        "example_ja": "英語、わかりますか？",
+        "romaji": "Eigo, wakarimasu ka?",
+        "meaning_si": "ඔබට ඉංග්‍රීසි තේරෙනවාද?"
+      }
+    ],
+    "activities": [
+      {
+        "id": "l02-act-01",
+        "official_activity_title_ja": "もういちど、お願いします",
+        "title_si": "නැවත කියන ලෙස ඉල්ලීම",
+        "can_do_id": "l02-cd-01",
+        "skill": "listening_speaking",
+        "learning_focus": "නොතේරුණු විට නැවත කියන ලෙස හෝ සෙමින් කතා කරන ලෙස ඉල්ලීම",
+        "source_ref": {
+          "resource": "IRODORI Starter Table of Contents",
+          "section": "Lesson 2 activity 1",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        "audit_status": "activity_title_and_can_do_verified"
+      },
+      {
+        "id": "l02-act-02",
+        "official_activity_title_ja": "日本語、できますか？",
+        "title_si": "භාෂා හැකියාව ගැන විමසීම",
+        "can_do_id": "l02-cd-02",
+        "skill": "speaking",
+        "learning_focus": "භාෂාවක් කතා කිරීමට හෝ තේරුම් ගැනීමට හැකිදැයි විමසීම සහ පිළිතුරු දීම",
+        "source_ref": {
+          "resource": "IRODORI Starter Table of Contents",
+          "section": "Lesson 2 activity 2",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        "audit_status": "activity_title_and_can_do_verified"
+      }
+    ],
     "grammar": [],
-    "vocabulary": [],
+    "vocabulary": [
+      {
+        "id": "l02-v-001",
+        "ja": "もういちど",
+        "romaji": "Mou ichido",
+        "si": "තව වරක් / නැවත වරක්",
+        "type": "adverb",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-002",
+        "ja": "お願いします",
+        "romaji": "Onegaishimasu",
+        "si": "කරුණාකර / ඉල්ලීමක් කරනවා",
+        "type": "polite_expression",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-003",
+        "ja": "もう少し",
+        "romaji": "Mou sukoshi",
+        "si": "තව ටිකක්",
+        "type": "expression",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-004",
+        "ja": "ゆっくり",
+        "romaji": "Yukkuri",
+        "si": "සෙමින් / හෙමින්",
+        "type": "adverb",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-005",
+        "ja": "言ってください",
+        "romaji": "Itte kudasai",
+        "si": "කියන්න, කරුණාකර",
+        "type": "request_expression",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-006",
+        "ja": "よくわかりません",
+        "romaji": "Yoku wakarimasen",
+        "si": "හොඳින් තේරෙන්නේ නැහැ",
+        "type": "expression",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-007",
+        "ja": "日本語",
+        "romaji": "Nihongo",
+        "si": "ජපන් භාෂාව",
+        "type": "noun",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-008",
+        "ja": "英語",
+        "romaji": "Eigo",
+        "si": "ඉංග්‍රීසි භාෂාව",
+        "type": "noun",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-009",
+        "ja": "わかります",
+        "romaji": "Wakarimasu",
+        "si": "තේරෙනවා",
+        "type": "verb",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l02-v-010",
+        "ja": "できます",
+        "romaji": "Dekimasu",
+        "si": "කළ හැකියි / පුළුවන්",
+        "type": "verb",
+        "source_status": "core_expression"
+      }
+    ],
     "kanji": [],
-    "conversations": [],
+    "conversations": [
+      {
+        "id": "l02-dialogue-01",
+        "title_si": "නැවත කියන්න ඉල්ලීම",
+        "context": "A learner cannot hear the instruction clearly.",
+        "lines": [
+          {
+            "speaker": "A",
+            "ja": "すみません。",
+            "romaji": "Sumimasen.",
+            "si": "සමාවෙන්න."
+          },
+          {
+            "speaker": "A",
+            "ja": "もういちど、お願いします。",
+            "romaji": "Mou ichido, onegaishimasu.",
+            "si": "කරුණාකර නැවත වරක් කියන්න."
+          },
+          {
+            "speaker": "B",
+            "ja": "はい。",
+            "romaji": "Hai.",
+            "si": "හරි."
+          }
+        ],
+        "status": "original_practice_dialogue"
+      },
+      {
+        "id": "l02-dialogue-02",
+        "title_si": "සෙමින් කතා කරන ලෙස ඉල්ලීම",
+        "context": "A speaker talks too quickly.",
+        "lines": [
+          {
+            "speaker": "A",
+            "ja": "すみません。よくわかりません。",
+            "romaji": "Sumimasen. Yoku wakarimasen.",
+            "si": "සමාවෙන්න. මට හරියට තේරෙන්නේ නැහැ."
+          },
+          {
+            "speaker": "A",
+            "ja": "もう少し、ゆっくり言ってください。",
+            "romaji": "Mou sukoshi, yukkuri itte kudasai.",
+            "si": "කරුණාකර තව ටිකක් සෙමින් කියන්න."
+          },
+          {
+            "speaker": "B",
+            "ja": "はい、わかりました。",
+            "romaji": "Hai, wakarimashita.",
+            "si": "හරි, තේරුණා."
+          }
+        ],
+        "status": "original_practice_dialogue"
+      },
+      {
+        "id": "l02-dialogue-03",
+        "title_si": "භාෂා හැකියාව විමසීම",
+        "context": "Two people check which languages they can use.",
+        "lines": [
+          {
+            "speaker": "A",
+            "ja": "英語、わかりますか？",
+            "romaji": "Eigo, wakarimasu ka?",
+            "si": "ඔබට ඉංග්‍රීසි තේරෙනවාද?"
+          },
+          {
+            "speaker": "B",
+            "ja": "はい、少しわかります。",
+            "romaji": "Hai, sukoshi wakarimasu.",
+            "si": "ඔව්, ටිකක් තේරෙනවා."
+          }
+        ],
+        "status": "original_practice_dialogue"
+      }
+    ],
     "listening_scripts": [],
     "reading": [],
     "tips_for_life_in_japan": []
   },
   "supplementary_learning": {
-    "grammar_explanations_si": [],
-    "examples": [],
-    "exercises": [],
-    "homework": [],
-    "answer_keys": []
+    "grammar_explanations_si": [
+      {
+        "id": "l02-gx-01",
+        "title_si": "もういちど + お願いします",
+        "explanation_si": "もういちど යනු 'තව වරක්' යන්නයි. お願いします යනු ආචාරශීලී ඉල්ලීමක් කරන විට යෙදේ. දෙක එකතු කළ විට 'කරුණාකර නැවත වරක්' යන අර්ථය ලැබේ.",
+        "examples": [
+          {
+            "ja": "もういちど、お願いします。",
+            "romaji": "Mou ichido, onegaishimasu.",
+            "si": "කරුණාකර නැවත වරක් කියන්න."
+          }
+        ]
+      },
+      {
+        "id": "l02-gx-02",
+        "title_si": "～てください ඉල්ලීම් රටාව",
+        "explanation_si": "ක්‍රියාවක් කර දෙන ලෙස ආචාරශීලීව ඉල්ලීමට ක්‍රියා පදයේ て-form එකට ください එකතු කරයි. 言う (iu – කියනවා) → 言って (itte) → 言ってください (itte kudasai – කරුණාකර කියන්න). මෙය අමතර ඉගැන්වීම් පැහැදිලි කිරීමකි; නිල Starter Lesson 2 Grammar Notes කොටසක් නැත.",
+        "examples": [
+          {
+            "ja": "ゆっくり言ってください。",
+            "romaji": "Yukkuri itte kudasai.",
+            "si": "කරුණාකර සෙමින් කියන්න."
+          },
+          {
+            "ja": "もう一度言ってください。",
+            "romaji": "Mou ichido itte kudasai.",
+            "si": "කරුණාකර නැවත වරක් කියන්න."
+          }
+        ]
+      },
+      {
+        "id": "l02-gx-03",
+        "title_si": "～ますか？ ප්‍රශ්නය",
+        "explanation_si": "ます ආකාරයේ ක්‍රියා පදයකට か එකතු කිරීමෙන් ආචාරශීලී ඔව්/නැහැ ප්‍රශ්නයක් සාදයි. わかりますか යනු 'තේරෙනවාද?' යන්නයි.",
+        "examples": [
+          {
+            "ja": "日本語、わかりますか？",
+            "romaji": "Nihongo, wakarimasu ka?",
+            "si": "ඔබට ජපන් තේරෙනවාද?"
+          },
+          {
+            "ja": "英語、できますか？",
+            "romaji": "Eigo, dekimasu ka?",
+            "si": "ඔබට ඉංග්‍රීසි පුළුවන්ද?"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "id": "l02-ex-01",
+        "ja": "すみません、よくわかりません。",
+        "romaji": "Sumimasen, yoku wakarimasen.",
+        "si": "සමාවෙන්න, මට හරියට තේරෙන්නේ නැහැ."
+      },
+      {
+        "id": "l02-ex-02",
+        "ja": "もういちど、お願いします。",
+        "romaji": "Mou ichido, onegaishimasu.",
+        "si": "කරුණාකර නැවත වරක් කියන්න."
+      },
+      {
+        "id": "l02-ex-03",
+        "ja": "もう少し、ゆっくり言ってください。",
+        "romaji": "Mou sukoshi, yukkuri itte kudasai.",
+        "si": "කරුණාකර තව ටිකක් සෙමින් කියන්න."
+      },
+      {
+        "id": "l02-ex-04",
+        "ja": "日本語、できますか？",
+        "romaji": "Nihongo, dekimasu ka?",
+        "si": "ඔබට ජපන් කතා කරන්න පුළුවන්ද?"
+      },
+      {
+        "id": "l02-ex-05",
+        "ja": "英語、わかりますか？",
+        "romaji": "Eigo, wakarimasu ka?",
+        "si": "ඔබට ඉංග්‍රීසි තේරෙනවාද?"
+      },
+      {
+        "id": "l02-ex-06",
+        "ja": "はい、少しわかります。",
+        "romaji": "Hai, sukoshi wakarimasu.",
+        "si": "ඔව්, ටිකක් තේරෙනවා."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "l02-q-01",
+        "type": "multiple_choice",
+        "prompt_si": "කෙනෙකු කියූ දෙය නොතේරුණා. නැවත කියන්න ඉල්ලීමට සුදුසු ප්‍රකාශය කුමක්ද?",
+        "options": [
+          {
+            "id": "a",
+            "ja": "もういちど、お願いします。"
+          },
+          {
+            "id": "b",
+            "ja": "こんばんは。"
+          },
+          {
+            "id": "c",
+            "ja": "ありがとうございます。"
+          }
+        ],
+        "answer": "a",
+        "explanation_si": "もういちど、お願いします යනු කරුණාකර නැවත කියන්න යන්නයි."
+      },
+      {
+        "id": "l02-q-02",
+        "type": "multiple_choice",
+        "prompt_si": "'කරුණාකර සෙමින් කියන්න' යන්නට ගැළපෙන්නේ කුමක්ද?",
+        "options": [
+          {
+            "id": "a",
+            "ja": "ゆっくり言ってください。"
+          },
+          {
+            "id": "b",
+            "ja": "よくわかります。"
+          },
+          {
+            "id": "c",
+            "ja": "おはようございます。"
+          }
+        ],
+        "answer": "a",
+        "explanation_si": "ゆっくり = සෙමින්; 言ってください = කරුණාකර කියන්න."
+      },
+      {
+        "id": "l02-q-03",
+        "type": "translation",
+        "prompt_si": "'මට හරියට තේරෙන්නේ නැහැ' ජපන් භාෂාවෙන් ලියන්න.",
+        "answer": "よくわかりません",
+        "accepted_answers": [
+          "よくわかりません。"
+        ],
+        "explanation_si": "よくわかりません යනු හොඳින් තේරෙන්නේ නැහැ යන්නයි."
+      },
+      {
+        "id": "l02-q-04",
+        "type": "fill_blank",
+        "prompt_si": "හිස්තැන පුරවන්න: 英語、わかり_____？",
+        "answer": "ますか",
+        "explanation_si": "わかりますか යනු තේරෙනවාද? යන ආචාරශීලී ප්‍රශ්නයයි."
+      },
+      {
+        "id": "l02-q-05",
+        "type": "multiple_choice",
+        "prompt_si": "'තව ටිකක්' යන අර්ථය දෙන ප්‍රකාශය කුමක්ද?",
+        "options": [
+          {
+            "id": "a",
+            "ja": "もう少し"
+          },
+          {
+            "id": "b",
+            "ja": "ゆっくり"
+          },
+          {
+            "id": "c",
+            "ja": "日本語"
+          }
+        ],
+        "answer": "a",
+        "explanation_si": "もう少し = තව ටිකක්."
+      },
+      {
+        "id": "l02-q-06",
+        "type": "sentence_order",
+        "prompt_si": "වචන නිවැරදි අනුපිළිවෙළට සකස් කරන්න.",
+        "tokens": [
+          "ください",
+          "ゆっくり",
+          "言って"
+        ],
+        "answer": "ゆっくり言ってください",
+        "explanation_si": "ゆっくり + 言って + ください."
+      },
+      {
+        "id": "l02-q-07",
+        "type": "short_answer",
+        "prompt_si": "කෙනෙකු ඉතා වේගයෙන් කතා කරන විට ඔබ කියන ජපන් වාක්‍යයක් ලියන්න.",
+        "sample_answer": "もう少し、ゆっくり言ってください。",
+        "explanation_si": "තව ටිකක් සෙමින් කතා කරන ලෙස ඉල්ලීම."
+      },
+      {
+        "id": "l02-q-08",
+        "type": "role_play",
+        "prompt_si": "ඔබට ජපන් ටිකක් පමණක් තේරෙන බව සහ ඉංග්‍රීසි තේරෙන බව කියන වාක්‍ය දෙකක් ලියන්න.",
+        "sample_answer": [
+          "日本語、少しわかります。",
+          "英語、わかります。"
+        ],
+        "explanation_si": "少し = ටිකක්; わかります = තේරෙනවා."
+      }
+    ],
+    "homework": [
+      {
+        "id": "l02-hw-01",
+        "title_si": "නොතේරෙන විට භාවිත කරන ප්‍රකාශ",
+        "task_si": "නැවත කියන්න, සෙමින් කියන්න, තවත් පැහැදිලි කරන්න යන අවස්ථා තුනකට ජපන් ප්‍රකාශයක්, Romaji සහ සිංහල අර්ථය ලියන්න.",
+        "minimum_items": 3
+      },
+      {
+        "id": "l02-hw-02",
+        "title_si": "භාෂා සමීක්ෂණය",
+        "task_si": "ඔබේ පවුලේ හෝ මිතුරන් 5 දෙනෙකු ගැන 日本語、英語、シンハラ語 යන භාෂා භාවිත කරමින් ඔවුන්ට කුමන භාෂා තේරෙනවාදැයි ප්‍රශ්න-පිළිතුරු සකස් කරන්න.",
+        "minimum_people": 5
+      },
+      {
+        "id": "l02-hw-03",
+        "title_si": "කෙටි ශ්‍රවණ අභ්‍යාසය",
+        "task_si": "ඉහත සංවාද තුන හඬ නඟා කියවන්න. පසුව ජපන් පෙළ නොබලා Romaji හෝ සිංහල අර්ථය මතකයෙන් කියන්න.",
+        "minimum_dialogues": 3
+      },
+      {
+        "id": "l02-hw-04",
+        "title_si": "てください වාක්‍ය 10ක්",
+        "task_si": "～てください රටාවෙන් ඉල්ලීම් වාක්‍ය 10ක් සකස් කරන්න. අවම වශයෙන් 5ක් දෛනික ජීවිතයට සම්බන්ධ විය යුතුය.",
+        "minimum_sentences": 10
+      }
+    ],
+    "answer_keys": [
+      {
+        "id": "l02-ak-01",
+        "exercise_id": "l02-q-01",
+        "answer": "a",
+        "explanation_si": "もういちど、お願いします。"
+      },
+      {
+        "id": "l02-ak-02",
+        "exercise_id": "l02-q-02",
+        "answer": "a",
+        "explanation_si": "ゆっくり言ってください。"
+      },
+      {
+        "id": "l02-ak-03",
+        "exercise_id": "l02-q-03",
+        "answer": "よくわかりません",
+        "explanation_si": "よくわかりません。"
+      },
+      {
+        "id": "l02-ak-04",
+        "exercise_id": "l02-q-04",
+        "answer": "ますか",
+        "explanation_si": "わかりますか？"
+      },
+      {
+        "id": "l02-ak-05",
+        "exercise_id": "l02-q-05",
+        "answer": "a",
+        "explanation_si": "もう少し"
+      },
+      {
+        "id": "l02-ak-06",
+        "exercise_id": "l02-q-06",
+        "answer": "ゆっくり言ってください",
+        "explanation_si": "ゆっくり言ってください。"
+      },
+      {
+        "id": "l02-ak-07",
+        "exercise_id": "l02-q-07",
+        "answer": "もう少し、ゆっくり言ってください。",
+        "explanation_si": "අනුමත සමාන අර්ථයේ වාක්‍යද පිළිගන්න."
+      },
+      {
+        "id": "l02-ak-08",
+        "exercise_id": "l02-q-08",
+        "answer": [
+          "日本語、少しわかります。",
+          "英語、わかります。"
+        ],
+        "explanation_si": "තමන්ගේ සැබෑ භාෂා හැකියාව අනුව වාක්‍ය වෙනස් විය හැකිය."
+      }
+    ]
   },
   "asset_mappings": {
     "images": [],
     "audio": []
   },
-  "status": "metadata_only_pending_source_audit",
-  "provenance_note": "This file was created specifically for the new JP Nexus repository. No previous project data has been imported. Content must be populated only after checking the official lesson source."
+  "status": "content_seeded_official_index_audit_partial_full_pdf_audio_audit_pending",
+  "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. Starter Lesson 2 has no official Grammar Notes section; grammar explanations here are supplementary teaching aids. No prior project data imported."
 }
