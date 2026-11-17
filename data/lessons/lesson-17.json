@@ -31,7 +31,14 @@
       "hiragana_katakana_words": "https://www.irodori.jpf.go.jp/assets/data/Kana_all.pdf",
       "grammar_worksheets": "https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_X.pdf"
     },
-    "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted"
+    "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted",
+    "word_list_page_range": {
+      "pdf_viewer_pages": [
+        61,
+        66
+      ],
+      "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf"
+    }
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
@@ -43,7 +50,8 @@
     "listening_scripts": "pending",
     "tips_for_life_in_japan": "topic_headings_verified_from_official_table_of_contents; detailed_pdf_audit_pending",
     "pdf_page_mapping": "pending",
-    "audio_track_mapping": "pending"
+    "audio_track_mapping": "pending",
+    "vocabulary": "official_wordlist_lesson_section_located; complete_entries_not_yet_extracted"
   },
   "content": {
     "can_do": [],
