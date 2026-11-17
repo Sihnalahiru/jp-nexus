@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "publisher": "The Japan Foundation",
+  "official_resources_page": "https://www.irodori.jpf.go.jp/en/resources.html",
+  "resources": [
+    {
+      "id": "starter-grammar-notes",
+      "title": "Compiled Grammar Notes",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/Grammar_all.pdf",
+      "format": "PDF",
+      "pages": 245,
+      "scope": "Starter / Elementary 1 / Elementary 2 / Pre-Intermediate",
+      "verified": "official_link_and_pdf_opened",
+      "use": "Use only Starter lesson sections; audit page/lesson labels before mapping."
+    },
+    {
+      "id": "starter-tips-life-japan",
+      "title": "Compiled Tips for Life in Japan",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/TIPS_all.pdf",
+      "format": "PDF",
+      "pages": null,
+      "scope": "Starter / Elementary 1 / Elementary 2 / Pre-Intermediate",
+      "verified": "official_link_verified_binary_too_large_for_web_text_extraction",
+      "use": "Download and inspect locally; do not invent page mapping."
+    },
+    {
+      "id": "starter-kanji-words",
+      "title": "Compiled Kanji Words",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/Kanji_all.pdf",
+      "format": "PDF",
+      "pages": 70,
+      "scope": "Starter / Elementary 1 / Elementary 2 / Pre-Intermediate",
+      "verified": "official_link_and_pdf_opened",
+      "use": "Extract only Starter A1 entries and preserve lesson references."
+    },
+    {
+      "id": "starter-kana-words",
+      "title": "Hiragana Words and Katakana Words",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/Kana_all.pdf",
+      "format": "PDF",
+      "pages": 6,
+      "scope": "Starter / Elementary 1 / Elementary 2 / Pre-Intermediate",
+      "verified": "official_link_and_pdf_opened",
+      "use": "Map Starter hiragana/katakana vocabulary and page evidence."
+    },
+    {
+      "id": "starter-word-list",
+      "title": "Starter Word List",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+      "format": "PDF",
+      "pages": 74,
+      "scope": "Starter A1",
+      "verified": "official_link_and_pdf_opened",
+      "use": "Primary reference for full vocabulary extraction."
+    },
+    {
+      "id": "starter-answer-book",
+      "title": "Starter Answers",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_answer.pdf",
+      "format": "PDF",
+      "pages": 46,
+      "scope": "Starter A1",
+      "verified": "official_link_and_pdf_opened",
+      "use": "Audit official textbook activity answers; not a substitute for original practice answer keys."
+    },
+    {
+      "id": "starter-grammar-worksheets",
+      "title": "Starter Grammar Worksheets",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_X.pdf",
+      "format": "PDF",
+      "pages": 53,
+      "scope": "Starter A1",
+      "verified": "official_link_and_pdf_opened",
+      "use": "Use as additional practice reference; author original Sinhala explanations and new questions."
+    },
+    {
+      "id": "starter-illustrations",
+      "title": "Starter Illustrations ZIP",
+      "url": "https://www.irodori.jpf.go.jp/assets/data/illust/X_Illustrations.zip",
+      "format": "ZIP",
+      "pages": null,
+      "scope": "Starter A1",
+      "verified": "official_link_verified_binary_not_extracted",
+      "use": "Japan Foundation terms say illustrations may only be used in teaching IRODORI and may not be edited; inspect rights before embedding."
+    },
+    {
+      "id": "starter-lesson-pdfs",
+      "title": "Individual Starter Lesson PDFs",
+      "url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "format": "PDF links",
+      "pages": null,
+      "scope": "Lessons 1–18",
+      "verified": "official_download_page_verified",
+      "use": "Use each individual lesson PDF for page-level activity, listening-script and illustration audit."
+    },
+    {
+      "id": "starter-lesson-audio",
+      "title": "Individual Starter Lesson MP3 ZIPs",
+      "url": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+      "format": "MP3 ZIP links",
+      "pages": null,
+      "scope": "Lessons 1–18",
+      "verified": "all_18_individual_download_links_opened; ZIP binaries not extracted",
+      "use": "Extract each ZIP and create a track manifest preserving exact filenames."
+    }
+  ],
+  "audit_policy": "Official resource URL verification is not the same as downloading, extracting, transcribing or auditing the resource. Maintain per-lesson evidence and exact filenames. Do not copy whole copyrighted textbook pages or audio into the project."
+}
