@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "lesson_number": 4,
+  "lesson_id": "irodori-st-a1-l04",
+  "title": {
+    "ja": "東京に住んでいます",
+    "en": "I live in Tokyo.",
+    "si": "මම ටෝකියෝවේ ජීවත් වෙනවා"
+  },
+  "topic": "私のこと",
+  "source": {
+    "publisher": "The Japan Foundation",
+    "resource": "IRODORI Starter Grammar Notes",
+    "url": "https://www.irodori.jpf.go.jp/assets/data/Grammar_all.pdf",
+    "pdf_viewer_pages": [
+      18,
+      21
+    ]
+  },
+  "grammar_patterns": [
+    {
+      "id": "l04-grammar-01",
+      "jp": "N1 と N2",
+      "romaji": "N1 to N2",
+      "explanation_si": "නාම පද දෙකක් හෝ කිහිපයක් 'සහ' ලෙස සම්බන්ධ කරයි. මෙහි පවුලේ සාමාජිකයන් හඳුන්වාදීමට භාවිතා වේ.",
+      "examples": [
+        {
+          "ja": "父と母です。",
+          "romaji": "Chichi to haha desu.",
+          "si": "තාත්තා සහ අම්මා."
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l04-grammar-02",
+      "jp": "Interrogative + ですか",
+      "romaji": "Question word + desu ka",
+      "explanation_si": "何歳、いくつ、だれ、どこ වැනි ප්‍රශ්න පදයකට ですか එක් කර ප්‍රශ්නයක් සාදයි. වයස අසන විට 何歳ですか／おいくつですか යොදාගත හැක.",
+      "examples": [
+        {
+          "ja": "おいくつですか？",
+          "romaji": "Oikutsu desu ka?",
+          "si": "ඔබගේ වයස කීයද?"
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l04-grammar-03",
+      "jp": "【place】に住んでいます",
+      "romaji": "[place] ni sunde imasu",
+      "explanation_si": "කෙනෙකු ජීවත් වන ස්ථානය කියයි. රටක හෝ නගරයක නමට පසුව に යොදයි. 住んでいます යන්න මේ පාඩමේදී එකම වාක්‍ය රටාවක් ලෙස මතක තබාගන්න.",
+      "examples": [
+        {
+          "ja": "マータラに住んでいます。",
+          "romaji": "Ma-tara ni sunde imasu.",
+          "si": "මම මාතර ජීවත් වෙනවා."
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l04-grammar-04",
+      "jp": "N1 の N2",
+      "romaji": "N1 no N2",
+      "explanation_si": "の මඟින් නාම පද දෙකක් අතර අයිතිය, සම්බන්ධතාව හෝ විස්තරය දක්වයි. 'මගේ පවුල', 'අක්කාගේ දරුවා' වැනි අදහස්. සමහර විට නාම දෙක එකම පුද්ගලයා/දේ හඳුන්වයි.",
+      "examples": [
+        {
+          "ja": "私の家族です。",
+          "romaji": "Watashi no kazoku desu.",
+          "si": "මේ මගේ පවුලයි."
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    }
+  ],
+  "practice": {
+    "note": "Original learner practice authored for JP Nexus; not copied from official workbook.",
+    "exercises": [
+      {
+        "id": "l04-g-ex01",
+        "type": "fill_blank",
+        "prompt": "わたし ___ マータラに住んでいます。",
+        "answer": "は",
+        "explanation_si": "වාක්‍යයේ මාතෘකාව 'මම' නිසා は යොදයි."
+      },
+      {
+        "id": "l04-g-ex02",
+        "type": "translate_to_japanese",
+        "prompt_si": "මම මාතර ජීවත් වෙනවා.",
+        "answer": "マータラに住んでいます。",
+        "romaji": "Ma-tara ni sunde imasu.",
+        "explanation_si": "ස්ථානයට පසුව අවශ්‍ය particle එක යොදන්න."
+      },
+      {
+        "id": "l04-g-ex03",
+        "type": "multiple_choice",
+        "prompt_si": "'මමත්' යන අදහසට ගැළපෙන particle එක තෝරන්න.",
+        "options": [
+          "は",
+          "も",
+          "の",
+          "と"
+        ],
+        "answer": "も",
+        "explanation_si": "も = ද / ත්."
+      },
+      {
+        "id": "l04-g-ex04",
+        "type": "reorder",
+        "prompt_si": "වචන නිවැරදි අනුපිළිවෙළට සකසන්න.",
+        "tokens": [
+          "住んでいます",
+          "に",
+          "マータラ"
+        ],
+        "answer": "マータラに住んでいます。",
+        "explanation_si": "නාමය/ස්ථානය සහ particle එක නිවැරදි අනුපිළිවෙළින් යොදන්න."
+      },
+      {
+        "id": "l04-g-ex05",
+        "type": "speaking",
+        "prompt_si": "ඔබ ජීවත් වන නගරය ජපන් භාෂාවෙන් කියන්න.",
+        "answer": null,
+        "explanation_si": "ඔබේම තොරතුරු යොදාගෙන හඬ නඟා වාක්‍ය 3 වතාවක් කියන්න.",
+        "self_check": true
+      }
+    ],
+    "homework": [
+      {
+        "id": "l04-hw01",
+        "task_si": "අද ඉගෙනගත් grammar patterns භාවිතා කර ඔබ ගැන ජපන් වාක්‍ය 5ක් ලියන්න.",
+        "minimum_items": 5
+      },
+      {
+        "id": "l04-hw02",
+        "task_si": "සෑම pattern එකකටම ඔබේම උදාහරණ 2 බැගින් ලියන්න.",
+        "minimum_items": 8
+      },
+      {
+        "id": "l04-hw03",
+        "task_si": "ප්‍රශ්න-පිළිතුරු කෙටි සංවාදයක් සකසා හඬ පටිගත කරන්න.",
+        "minimum_dialogue_turns": 6
+      }
+    ]
+  },
+  "status": "grammar_first_pass_verified_against_official_source"
+}
