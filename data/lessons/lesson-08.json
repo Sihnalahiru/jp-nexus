@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "lesson_number": 8,
+  "lesson_id": "irodori-st-a1-l08",
+  "title": {
+    "en": "Where is Yamada-san?",
+    "ja": "やまださんはどこですか",
+    "si": null
+  },
+  "topic": {
+    "en": "Homes and Workplaces",
+    "ja": "家と職場",
+    "si": null
+  },
+  "level": "A1",
+  "official_reference": {
+    "publisher": "The Japan Foundation",
+    "resource_title": "IRODORI Japanese for Life in Japan — Starter",
+    "lesson_pdf_url": null,
+    "official_download_index": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+    "status": "title_and_topic_verified_pdf_content_pending"
+  },
+  "source_audit": {
+    "lesson_title": "verified_from_official_download_index",
+    "topic": "verified_from_official_download_index",
+    "activities": "pending",
+    "can_do": "pending",
+    "grammar_notes": "pending",
+    "kanji_words": "pending",
+    "listening_scripts": "pending",
+    "tips_for_life_in_japan": "pending",
+    "pdf_page_mapping": "pending",
+    "audio_track_mapping": "pending"
+  },
+  "content": {
+    "can_do": [],
+    "activities": [],
+    "grammar": [],
+    "vocabulary": [],
+    "kanji": [],
+    "conversations": [],
+    "listening_scripts": [],
+    "reading": [],
+    "tips_for_life_in_japan": []
+  },
+  "supplementary_learning": {
+    "grammar_explanations_si": [],
+    "examples": [],
+    "exercises": [],
+    "homework": [],
+    "answer_keys": []
+  },
+  "asset_mappings": {
+    "images": [],
+    "audio": []
+  },
+  "status": "metadata_only_pending_source_audit",
+  "provenance_note": "This file was created specifically for the new JP Nexus repository. No previous project data has been imported. Content must be populated only after checking the official lesson source."
+}
