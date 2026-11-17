@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "lesson_number": 3,
+  "lesson_id": "irodori-st-a1-l03",
+  "title": {
+    "ja": "はじめまして",
+    "en": "Nice to meet you.",
+    "si": "හමුවීම සතුටක්"
+  },
+  "topic": "私のこと",
+  "source": {
+    "publisher": "The Japan Foundation",
+    "resource": "IRODORI Starter Grammar Notes",
+    "url": "https://www.irodori.jpf.go.jp/assets/data/Grammar_all.pdf",
+    "pdf_viewer_pages": [
+      14,
+      17
+    ]
+  },
+  "grammar_patterns": [
+    {
+      "id": "l03-grammar-01",
+      "jp": "N です / N1 は N2 です",
+      "romaji": "N desu / N1 wa N2 desu",
+      "explanation_si": "නාම පදයකට පසුව です යෙදීමෙන් තමන් කවුදැයි හෝ කුමක්දැයි ආචාරශීලීව කියයි. は ලියන නමුත් wa ලෙස උච්චාරණය කරයි; වාක්‍යයේ මාතෘකාව දක්වයි.",
+      "examples": [
+        {
+          "ja": "ラヒルです。",
+          "romaji": "Rahir(u) desu.",
+          "si": "මම ලහිරු."
+        },
+        {
+          "ja": "私は会社員です。",
+          "romaji": "Watashi wa kaishain desu.",
+          "si": "මම සමාගම් සේවකයෙක්."
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l03-grammar-02",
+      "jp": "【place】から来ました",
+      "romaji": "[place] kara kimashita",
+      "explanation_si": "තමන් පැමිණි රට හෝ නගරය කියයි. ස්ථානයට පසුව から යොදයි. මේ පාඩමේදී ～から来ました යන ප්‍රකාශය එකට මතක තබාගන්න.",
+      "examples": [
+        {
+          "ja": "スリランカから来ました。",
+          "romaji": "Suriranka kara kimashita.",
+          "si": "මම ශ්‍රී ලංකාවෙන් ආවා."
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l03-grammar-03",
+      "jp": "N は？",
+      "romaji": "N wa?",
+      "explanation_si": "කලින් කතා කළ මාතෘකාවම අනෙක් පුද්ගලයාගෙන් අසන කෙටි ප්‍රශ්නයකි. お名前は？ වැනි お/ご යෙදීමෙන් වඩාත් ගෞරවයෙන් අසයි.",
+      "examples": [
+        {
+          "ja": "お名前は？",
+          "romaji": "O-namae wa?",
+          "si": "ඔබේ නම මොකක්ද?"
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l03-grammar-04",
+      "jp": "S か？",
+      "romaji": "S ka?",
+      "explanation_si": "ප්‍රකාශ වාක්‍යයක අවසානයට か එක් කිරීමෙන් ප්‍රශ්නයක් කරයි. ඔබ කතා කරන කෙනාගේ නම දන්නවා නම් あなた වෙනුවට නමට さん යොදන්න.",
+      "examples": [
+        {
+          "ja": "日本語がわかりますか？",
+          "romaji": "Nihongo ga wakarimasu ka?",
+          "si": "ජපන් භාෂාව තේරෙනවාද?"
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l03-grammar-05",
+      "jp": "N も",
+      "romaji": "N mo",
+      "explanation_si": "も යනු 'ත් / ද' හෝ 'මමත්' යන අදහස දෙන particle එකකි.",
+      "examples": [
+        {
+          "ja": "私もスリランカです。",
+          "romaji": "Watashi mo Suriranka desu.",
+          "si": "මමත් ශ්‍රී ලංකාවේ."
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    },
+    {
+      "id": "l03-grammar-06",
+      "jp": "N じゃないです",
+      "romaji": "N ja nai desu",
+      "explanation_si": "නාම පද වාක්‍යයක නිෂේධන ආකාරයයි. N です වෙනුවට N じゃないです යොදයි. වඩාත් විධිමත් ආකාරය ではありません ය.",
+      "examples": [
+        {
+          "ja": "学生じゃないです。",
+          "romaji": "Gakusei ja nai desu.",
+          "si": "මම ශිෂ්‍යයෙක් නොවේ."
+        }
+      ],
+      "source_status": "checked_against_official_grammar_notes"
+    }
+  ],
+  "practice": {
+    "note": "Original learner practice authored for JP Nexus; not copied from official workbook.",
+    "exercises": [
+      {
+        "id": "l03-g-ex01",
+        "type": "fill_blank",
+        "prompt": "わたし ___ スリランカから来ました。",
+        "answer": "は",
+        "explanation_si": "වාක්‍යයේ මාතෘකාව 'මම' නිසා は යොදයි."
+      },
+      {
+        "id": "l03-g-ex02",
+        "type": "translate_to_japanese",
+        "prompt_si": "මම ශ්‍රී ලංකාවෙන් ආවා.",
+        "answer": "スリランカから来ました。",
+        "romaji": "Suriranka kara kimashita.",
+        "explanation_si": "ස්ථානයට පසුව අවශ්‍ය particle එක යොදන්න."
+      },
+      {
+        "id": "l03-g-ex03",
+        "type": "multiple_choice",
+        "prompt_si": "'මමත්' යන අදහසට ගැළපෙන particle එක තෝරන්න.",
+        "options": [
+          "は",
+          "も",
+          "の",
+          "と"
+        ],
+        "answer": "も",
+        "explanation_si": "も = ද / ත්."
+      },
+      {
+        "id": "l03-g-ex04",
+        "type": "reorder",
+        "prompt_si": "වචන නිවැරදි අනුපිළිවෙළට සකසන්න.",
+        "tokens": [
+          "です",
+          "ラヒル",
+          "。"
+        ],
+        "answer": "ラヒルです。",
+        "explanation_si": "නාමය/ස්ථානය සහ particle එක නිවැරදි අනුපිළිවෙළින් යොදන්න."
+      },
+      {
+        "id": "l03-g-ex05",
+        "type": "speaking",
+        "prompt_si": "ඔබේ නම සහ රට ජපන් භාෂාවෙන් කියන්න.",
+        "answer": null,
+        "explanation_si": "ඔබේම තොරතුරු යොදාගෙන හඬ නඟා වාක්‍ය 3 වතාවක් කියන්න.",
+        "self_check": true
+      }
+    ],
+    "homework": [
+      {
+        "id": "l03-hw01",
+        "task_si": "අද ඉගෙනගත් grammar patterns භාවිතා කර ඔබ ගැන ජපන් වාක්‍ය 5ක් ලියන්න.",
+        "minimum_items": 5
+      },
+      {
+        "id": "l03-hw02",
+        "task_si": "සෑම pattern එකකටම ඔබේම උදාහරණ 2 බැගින් ලියන්න.",
+        "minimum_items": 12
+      },
+      {
+        "id": "l03-hw03",
+        "task_si": "ප්‍රශ්න-පිළිතුරු කෙටි සංවාදයක් සකසා හඬ පටිගත කරන්න.",
+        "minimum_dialogue_turns": 6
+      }
+    ]
+  },
+  "status": "grammar_first_pass_verified_against_official_source"
+}
