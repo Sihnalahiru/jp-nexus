@@ -65,7 +65,7 @@
     },
     "lesson": {
       "type": "object",
-      "required": ["lesson_number", "lesson_id", "title", "status", "source_refs"],
+      "required": ["lesson_number", "lesson_id", "title", "status"],
       "properties": {
         "lesson_number": { "type": "integer", "minimum": 1, "maximum": 18 },
         "lesson_id": { "type": ["string", "null"], "pattern": "^irodori-st-a1-l[0-9]{2}$" },
@@ -82,7 +82,7 @@
         "exercise_ids": { "type": "array", "items": { "type": ["string", "null"] } },
         "source_refs": { "type": "array", "items": { "$ref": "#/$defs/sourceRef" } },
         "status": {
-          "enum": ["not_started", "in_progress", "pending_audit", "verified", "complete"]
+          "enum": ["not_started", "in_progress", "pending_audit", "verified", "complete", "metadata_only_pending_source_audit"]
         }
       },
       "additionalProperties": true
