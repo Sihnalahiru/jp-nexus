@@ -98,3 +98,29 @@ Official source index pages:
 
 ## Official source structure reminder
 The Japan Foundation describes Starter as Lessons 1–18 with activities, listening scripts, Kanji Words, Grammar Notes and Tips for Life in Japan; Grammar Notes are absent from Starter Lessons 1 and 2. Source: https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_howto_en.pdf
+
+
+## This bulk — Expanded self-study practice for all 18 lessons
+
+The earlier 5-exercise / 3-homework allowance was too small for independent study. It has been replaced with a larger practice bank for every Starter lesson.
+
+- [x] Created one dedicated practice JSON for each lesson, L01–L18
+- [x] 20 exercise tasks per lesson = 360 tasks
+- [x] 10 homework tasks per lesson = 180 tasks
+- [x] Total new practice workload: 540 task records
+- [x] Exercises use varied modes: recognition, matching, MCQ, fill-in, ordering, short answer, translation, speaking, role-play, listening notes, reading scan, form completion, dialogue completion, error correction, sentence building, information gap, writing, real-life simulation and mixed review
+- [x] Homework includes recall, vocabulary flashcards, sentence writing, speaking recordings, listening shadowing, real-world reading, messages, partner role-play, observation and weekly review
+- [x] Each pack is aligned to the official lesson activity titles and Can-do objectives
+- [x] Expanded existing Lesson 03 and 04 grammar JSON practice arrays to 20 exercises and 10 homework tasks each
+
+Files: `data/exercises/lesson-01-practice.json` through `data/exercises/lesson-18-practice.json`.
+
+**Practice quality boundary:** These are original JP Nexus task prompts and study assignments, not copied official workbook questions. They are aligned to the official activity/Can-do map. Detailed Japanese model answers, accepted variants, and exact grammar-level answer keys remain pending full source and grammar audit. Listening tasks are assignments, not claims that audio transcripts have been aligned.
+
+## Current expanded practice totals
+- 18 lesson packs
+- 360 exercises
+- 180 homework tasks
+- 540 total practice tasks
+
+Do not mark the course or practice answer-key audit complete.
