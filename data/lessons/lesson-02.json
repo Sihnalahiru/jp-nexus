@@ -31,7 +31,8 @@
       "hiragana_katakana_words": "https://www.irodori.jpf.go.jp/assets/data/Kana_all.pdf",
       "grammar_worksheets": "https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_X.pdf"
     },
-    "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted"
+    "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted",
+    "word_list_pdf_url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf"
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
@@ -43,7 +44,8 @@
     "listening_scripts": "pending_full_pdf_audio_audit",
     "tips_for_life_in_japan": "pending",
     "pdf_page_mapping": "pending",
-    "audio_track_mapping": "pending"
+    "audio_track_mapping": "pending",
+    "vocabulary": "official_wordlist_entries_extracted_and_bilingual_glossed; full page rendering audit pending"
   },
   "content": {
     "can_do": [
@@ -97,84 +99,754 @@
     "grammar": [],
     "vocabulary": [
       {
-        "id": "l02-v-001",
+        "id": "l02-official-v-001",
+        "ja": "よく",
+        "romaji": "yoku",
+        "en": "(not) really",
+        "si": "හොඳින් / සැබවින්ම (否定 සමඟ ‘හරියට නැහැ’).",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-002",
         "ja": "もういちど",
-        "romaji": "Mou ichido",
-        "si": "තව වරක් / නැවත වරක්",
-        "type": "adverb",
-        "source_status": "core_expression"
+        "romaji": "moo ichido",
+        "en": "once more",
+        "si": "තව වරක්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-002",
-        "ja": "お願いします",
-        "romaji": "Onegaishimasu",
-        "si": "කරුණාකර / ඉල්ලීමක් කරනවා",
-        "type": "polite_expression",
-        "source_status": "core_expression"
-      },
-      {
-        "id": "l02-v-003",
+        "id": "l02-official-v-003",
         "ja": "もう少し",
-        "romaji": "Mou sukoshi",
-        "si": "තව ටිකක්",
-        "type": "expression",
-        "source_status": "core_expression"
+        "romaji": "moo sukoshi",
+        "en": "a little more",
+        "si": "තව ටිකක්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-004",
+        "id": "l02-official-v-004",
         "ja": "ゆっくり",
-        "romaji": "Yukkuri",
-        "si": "සෙමින් / හෙමින්",
-        "type": "adverb",
-        "source_status": "core_expression"
+        "romaji": "yukkuri",
+        "en": "slowly",
+        "si": "සෙමින්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-005",
+        "id": "l02-official-v-005",
+        "ja": "在留カード",
+        "romaji": "zairyuu-kaado",
+        "en": "residence card",
+        "si": "නේවාසික කාඩ්පත.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-006",
+        "ja": "ここ",
+        "romaji": "koko",
+        "en": "here",
+        "si": "මෙතැන.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-007",
+        "ja": "名前",
+        "romaji": "namae",
+        "en": "name",
+        "si": "නම.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-008",
+        "ja": "部屋",
+        "romaji": "heya",
+        "en": "room",
+        "si": "කාමරය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-009",
+        "ja": "わかりません",
+        "romaji": "wakarimasen",
+        "en": "I do not understand.",
+        "si": "මට තේරෙන්නේ නැහැ.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-010",
+        "ja": "お願いします",
+        "romaji": "onegaishimasu",
+        "en": "Please.",
+        "si": "කරුණාකර.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-011",
         "ja": "言ってください",
-        "romaji": "Itte kudasai",
-        "si": "කියන්න, කරුණාකර",
-        "type": "request_expression",
-        "source_status": "core_expression"
+        "romaji": "itte kudasai",
+        "en": "Please say ～.",
+        "si": "කරුණාකර කියන්න.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-006",
-        "ja": "よくわかりません",
-        "romaji": "Yoku wakarimasen",
-        "si": "හොඳින් තේරෙන්නේ නැහැ",
-        "type": "expression",
-        "source_status": "core_expression"
+        "id": "l02-official-v-012",
+        "ja": "見せてください",
+        "romaji": "misete kudasai",
+        "en": "Please show me ～.",
+        "si": "කරුණාකර පෙන්වන්න.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-007",
+        "id": "l02-official-v-013",
+        "ja": "書いてください",
+        "romaji": "kaite kudasai",
+        "en": "Please write ～.",
+        "si": "කරුණාකර ලියන්න.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-014",
+        "ja": "わかりました",
+        "romaji": "wakarimashita",
+        "en": "I understand.",
+        "si": "මට තේරුණා.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-015",
+        "ja": "ゼロ",
+        "romaji": "zero",
+        "en": "zero",
+        "si": "බිංදුව.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-016",
+        "ja": "いち",
+        "romaji": "ichi",
+        "en": "one",
+        "si": "එක.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-017",
+        "ja": "に",
+        "romaji": "ni",
+        "en": "two",
+        "si": "දෙක.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-018",
+        "ja": "さん",
+        "romaji": "san",
+        "en": "three",
+        "si": "තුන.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-019",
+        "ja": "よん",
+        "romaji": "yon",
+        "en": "four",
+        "si": "හතර.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-020",
+        "ja": "ご",
+        "romaji": "go",
+        "en": "five",
+        "si": "පහ.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-021",
+        "ja": "ろく",
+        "romaji": "roku",
+        "en": "six",
+        "si": "හය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-022",
+        "ja": "なな",
+        "romaji": "nana",
+        "en": "seven",
+        "si": "හත.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-023",
+        "ja": "はち",
+        "romaji": "hachi",
+        "en": "eight",
+        "si": "අට.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-024",
+        "ja": "きゅう",
+        "romaji": "kyuu",
+        "en": "nine",
+        "si": "නවය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 4,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-025",
+        "ja": "じゅう",
+        "romaji": "juu",
+        "en": "ten",
+        "si": "දහය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-026",
         "ja": "日本語",
-        "romaji": "Nihongo",
-        "si": "ජපන් භාෂාව",
-        "type": "noun",
-        "source_status": "core_expression"
+        "romaji": "nihongo",
+        "en": "Japanese language",
+        "si": "ජපන් භාෂාව.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-008",
+        "id": "l02-official-v-027",
         "ja": "英語",
-        "romaji": "Eigo",
-        "si": "ඉංග්‍රීසි භාෂාව",
-        "type": "noun",
-        "source_status": "core_expression"
+        "romaji": "eego",
+        "en": "English language",
+        "si": "ඉංග්‍රීසි භාෂාව.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-009",
-        "ja": "わかります",
-        "romaji": "Wakarimasu",
-        "si": "තේරෙනවා",
-        "type": "verb",
-        "source_status": "core_expression"
+        "id": "l02-official-v-028",
+        "ja": "中国語",
+        "romaji": "chuugokugo",
+        "en": "Chinese language",
+        "si": "චීන භාෂාව.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l02-v-010",
+        "id": "l02-official-v-029",
+        "ja": "インドネシア語",
+        "romaji": "indoneshiago",
+        "en": "Indonesian language",
+        "si": "ඉන්දුනීසියානු භාෂාව.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-030",
+        "ja": "はい",
+        "romaji": "hai",
+        "en": "yes",
+        "si": "ඔව්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-031",
+        "ja": "少し",
+        "romaji": "sukoshi",
+        "en": "a little / a few",
+        "si": "ටිකක්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-032",
+        "ja": "お客さん",
+        "romaji": "okyakusan",
+        "en": "customer",
+        "si": "පාරිභෝගිකයා.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-033",
+        "ja": "わかりますか？",
+        "romaji": "wakarimasu ka?",
+        "en": "Do you understand?",
+        "si": "ඔබට තේරෙනවාද?",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-034",
+        "ja": "できますか？",
+        "romaji": "dekimasu ka?",
+        "en": "Can you speak it?",
+        "si": "ඔබට එය කතා කරන්න / කරන්න පුළුවන්ද?",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-035",
         "ja": "できます",
-        "romaji": "Dekimasu",
-        "si": "කළ හැකියි / පුළුවන්",
-        "type": "verb",
-        "source_status": "core_expression"
+        "romaji": "dekimasu",
+        "en": "I can speak / understand it.",
+        "si": "මට පුළුවන්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-036",
+        "ja": "わかります",
+        "romaji": "wakarimasu",
+        "en": "I understand.",
+        "si": "මට තේරෙනවා.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-037",
+        "ja": "はい、どうぞ",
+        "romaji": "hai, doozo",
+        "en": "Here you go.",
+        "si": "ඔව්, මෙන්න.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-038",
+        "ja": "じゃあ",
+        "romaji": "jaa",
+        "en": "Well then…",
+        "si": "එහෙනම්…",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-039",
+        "ja": "あのう",
+        "romaji": "anoo",
+        "en": "Um… (starting to talk)",
+        "si": "මේ…",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 5,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-040",
+        "ja": "日本語で",
+        "romaji": "nihongo de",
+        "en": "in Japanese",
+        "si": "ජපන් භාෂාවෙන්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-041",
+        "ja": "何",
+        "romaji": "nan",
+        "en": "what",
+        "si": "මොකක්ද?",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-042",
+        "ja": "消しゴム",
+        "romaji": "keshigomu",
+        "en": "eraser",
+        "si": "මකනය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-043",
+        "ja": "傘",
+        "romaji": "kasa",
+        "en": "umbrella",
+        "si": "කුඩය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-044",
+        "ja": "スマホ",
+        "romaji": "sumaho",
+        "en": "smartphone",
+        "si": "ස්මාර්ට් දුරකථනය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-045",
+        "ja": "免許証",
+        "romaji": "menkyoshoo",
+        "en": "license",
+        "si": "බලපත්‍රය.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-046",
+        "ja": "蚊",
+        "romaji": "ka",
+        "en": "mosquito",
+        "si": "මදුරුවා.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-047",
+        "ja": "何ですか？",
+        "romaji": "nan desu ka?",
+        "en": "What is it?",
+        "si": "ඒ මොකක්ද?",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-048",
+        "ja": "何と言いますか？",
+        "romaji": "nan to iimasu ka?",
+        "en": "What do you call it?",
+        "si": "ඒකට මොකක් කියනවාද?",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-049",
+        "ja": "え？",
+        "romaji": "e?",
+        "en": "Huh? / What? / Pardon?",
+        "si": "ආ? / මොකක්ද?",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l02-official-v-050",
+        "ja": "そうそう",
+        "romaji": "soo soo",
+        "en": "That’s right.",
+        "si": "ඔව්, ඒක තමයි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 6,
+          "section": "Lesson 2 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       }
     ],
     "kanji": [],
@@ -539,5 +1211,5 @@
     "audio": []
   },
   "status": "content_seeded_official_index_audit_partial_full_pdf_audio_audit_pending",
-  "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. Starter Lesson 2 has no official Grammar Notes section; grammar explanations here are supplementary teaching aids. No prior project data imported."
+  "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. Starter Lesson 2 has no official Grammar Notes section; grammar explanations here are supplementary teaching aids. No prior project data imported. Vocabulary entries extracted from the official Starter word list and given original Sinhala glosses."
 }
