@@ -26,7 +26,7 @@
     "verification_status": "source_reference_to_be_checked",
     "notes": "Record exact edition, source URL, page references, and access date during source audit."
   },
-  "build_status": "all_18_lessons_have_20_exercise_10_homework_practice_packs_answer_key_audit_pending",
+  "build_status": "all_18_lessons_practice_packs_enriched_360_exercises_180_homework_answer_key_audit_pending",
   "completion": {
     "lessons_created": 18,
     "lessons_verified": 0,
