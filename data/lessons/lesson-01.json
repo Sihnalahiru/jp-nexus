@@ -7,55 +7,503 @@
   "title": {
     "en": "Good morning!",
     "ja": "おはようございます",
-    "si": null
+    "si": "සුභ උදෑසනක්!"
   },
   "topic": {
     "en": "Starting to Speak Japanese",
     "ja": "日本語を話し始める",
-    "si": null
+    "si": "ජපන් භාෂාව කතා කිරීම ආරම්භ කිරීම"
   },
   "level": "A1",
   "official_reference": {
     "publisher": "The Japan Foundation",
     "resource_title": "IRODORI Japanese for Life in Japan — Starter",
-    "lesson_pdf_url": null,
+    "lesson_pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L01.pdf",
     "official_download_index": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
-    "status": "title_and_topic_verified_pdf_content_pending"
+    "table_of_contents": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+    "status": "lesson_title_topic_and_can_do_index_verified; full_pdf_page_audit_pending"
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
     "topic": "verified_from_official_download_index",
-    "activities": "pending",
-    "can_do": "pending",
-    "grammar_notes": "pending",
-    "kanji_words": "pending",
-    "listening_scripts": "pending",
-    "tips_for_life_in_japan": "pending",
+    "activities": "activity_names_and_can_do_verified_from_official_table_of_contents; detailed_pdf_audit_pending",
+    "can_do": "verified_from_official_table_of_contents",
+    "grammar_notes": "official_textbook_has_no_grammar_notes_for_starter_lesson_1",
+    "kanji_words": "starter_lesson_1_hiragana_focus; full_page_audit_pending",
+    "listening_scripts": "pending_pdf_audit",
+    "tips_for_life_in_japan": "greeting_gestures_sayoonara_sumimasen_topics_verified_from_official_table_of_contents",
     "pdf_page_mapping": "pending",
     "audio_track_mapping": "pending"
   },
   "content": {
-    "can_do": [],
-    "activities": [],
+    "can_do": [
+      {
+        "id": "l01-cd-01",
+        "summary_en": "Can exchange greetings when meeting someone.",
+        "summary_si": "කෙනෙකු හමුවූ විට සුදුසු ආචාර වචන භාවිතයෙන් ආචාර කළ හැකිය.",
+        "example_ja": "こんにちは。",
+        "romaji": "Konnichiwa.",
+        "meaning_si": "ආයුබෝවන්."
+      },
+      {
+        "id": "l01-cd-02",
+        "summary_en": "Can say goodbye when leaving.",
+        "summary_si": "ස්ථානයකින් පිටත්ව යන විට සමුගැනීමේ වචන භාවිත කළ හැකිය.",
+        "example_ja": "お先に失礼します。",
+        "romaji": "Osaki ni shitsurei shimasu.",
+        "meaning_si": "මම කලින් යනවා / අවසරයි, මම පිටත් වෙනවා."
+      },
+      {
+        "id": "l01-cd-03",
+        "summary_en": "Can thank someone or apologize.",
+        "summary_si": "ස්තුතිය පළ කිරීමට හෝ සමාව ඉල්ලීමට සරල ප්‍රකාශ භාවිත කළ හැකිය.",
+        "example_ja": "ありがとうございます。",
+        "romaji": "Arigatou gozaimasu.",
+        "meaning_si": "බොහොම ස්තුතියි."
+      },
+      {
+        "id": "l01-cd-04",
+        "summary_en": "Can understand common message stickers such as good morning and thanks.",
+        "summary_si": "සුභ උදෑසනක් සහ ස්තුතියි වැනි වචන සහිත පණිවිඩ ස්ටිකර් හඳුනාගත හැකිය.",
+        "example_ja": "おはよう！",
+        "romaji": "Ohayou!",
+        "meaning_si": "සුභ උදෑසනක්!"
+      }
+    ],
+    "activities": [
+      {
+        "id": "l01-act-01",
+        "official_activity_title_ja": "こんにちは",
+        "title_si": "ආචාර කිරීම",
+        "can_do_id": "l01-cd-01",
+        "skill": "speaking",
+        "learning_focus": "දවසේ වේලාව සහ සමාජ අවස්ථාව අනුව ආචාර කිරීම තෝරාගැනීම",
+        "source_ref": {
+          "resource": "IRODORI Starter Table of Contents",
+          "section": "Lesson 1 activity 1",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        "audit_status": "activity_title_and_can_do_verified"
+      },
+      {
+        "id": "l01-act-02",
+        "official_activity_title_ja": "お先に失礼します",
+        "title_si": "පිටත්ව යන විට සමුගැනීම",
+        "can_do_id": "l01-cd-02",
+        "skill": "speaking",
+        "learning_focus": "වැඩබිමක හෝ කණ්ඩායමකින් කලින් පිටත්ව යන විට ගෞරවයෙන් සමුගැනීම",
+        "source_ref": {
+          "resource": "IRODORI Starter Table of Contents",
+          "section": "Lesson 1 activity 2",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        "audit_status": "activity_title_and_can_do_verified"
+      },
+      {
+        "id": "l01-act-03",
+        "official_activity_title_ja": "ありがとうございます",
+        "title_si": "ස්තුතිය සහ සමාව",
+        "can_do_id": "l01-cd-03",
+        "skill": "speaking",
+        "learning_focus": "ස්තුතිය සහ සමාව ප්‍රකාශ කිරීමේ මූලික වචන",
+        "source_ref": {
+          "resource": "IRODORI Starter Table of Contents",
+          "section": "Lesson 1 activity 3",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        "audit_status": "activity_title_and_can_do_verified"
+      },
+      {
+        "id": "l01-act-04",
+        "official_activity_title_ja": "メッセージスタンプ",
+        "title_si": "පණිවිඩ ස්ටිකර් තේරුම් ගැනීම",
+        "can_do_id": "l01-cd-04",
+        "skill": "reading",
+        "learning_focus": "කෙටි සුබපැතුම් සහ ස්තුති පණිවිඩ හඳුනාගැනීම",
+        "source_ref": {
+          "resource": "IRODORI Starter Table of Contents",
+          "section": "Lesson 1 activity 4",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+        },
+        "audit_status": "activity_title_and_can_do_verified"
+      }
+    ],
     "grammar": [],
-    "vocabulary": [],
+    "vocabulary": [
+      {
+        "id": "l01-v-001",
+        "ja": "おはようございます",
+        "romaji": "Ohayou gozaimasu",
+        "si": "සුභ උදෑසනක්",
+        "usage": "උදෑසන ගෞරවයෙන් ආචාර කිරීම",
+        "type": "greeting",
+        "source_status": "core_expression; verify against full lesson PDF"
+      },
+      {
+        "id": "l01-v-002",
+        "ja": "おはよう",
+        "romaji": "Ohayou",
+        "si": "සුභ උදෑසනක්",
+        "usage": "හිතවතුන් අතර අවිධිමත් උදෑසන ආචාරය",
+        "type": "greeting",
+        "source_status": "supplementary"
+      },
+      {
+        "id": "l01-v-003",
+        "ja": "こんにちは",
+        "romaji": "Konnichiwa",
+        "si": "ආයුබෝවන් / සුභ දහවලක්",
+        "usage": "දිවා කාලයේ සාමාන්‍ය ආචාරය",
+        "type": "greeting",
+        "source_status": "core_expression; verify against full lesson PDF"
+      },
+      {
+        "id": "l01-v-004",
+        "ja": "こんばんは",
+        "romaji": "Konbanwa",
+        "si": "සුභ සන්ධ්‍යාවක්",
+        "usage": "සවස හෝ රාත්‍රියේ ආචාරය",
+        "type": "greeting",
+        "source_status": "supplementary"
+      },
+      {
+        "id": "l01-v-005",
+        "ja": "ありがとうございます",
+        "romaji": "Arigatou gozaimasu",
+        "si": "බොහොම ස්තුතියි",
+        "usage": "ගෞරවයෙන් ස්තුති කිරීම",
+        "type": "expression",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l01-v-006",
+        "ja": "すみません",
+        "romaji": "Sumimasen",
+        "si": "සමාවෙන්න / සමාවන්න",
+        "usage": "සමාව ඉල්ලීමට හෝ කෙනෙකුගේ අවධානය ගැනීමට",
+        "type": "expression",
+        "source_status": "core_expression"
+      },
+      {
+        "id": "l01-v-007",
+        "ja": "さようなら",
+        "romaji": "Sayounara",
+        "si": "සමුගන්නම්",
+        "usage": "දිගු කාලයකට සමුගැනීමේ අවස්ථාවල",
+        "type": "expression",
+        "source_status": "core_expression; context-sensitive"
+      },
+      {
+        "id": "l01-v-008",
+        "ja": "お先に失礼します",
+        "romaji": "Osaki ni shitsurei shimasu",
+        "si": "මම කලින් පිටත්ව යනවා, අවසරයි",
+        "usage": "අන් අයට පෙර වැඩබිමෙන් පිටත්ව යන විට",
+        "type": "polite_expression",
+        "source_status": "core_expression"
+      }
+    ],
     "kanji": [],
-    "conversations": [],
+    "conversations": [
+      {
+        "id": "l01-dialogue-01",
+        "title_si": "උදෑසන වැඩබිමේදී",
+        "context": "Two colleagues meet in the morning.",
+        "lines": [
+          {
+            "speaker": "A",
+            "ja": "おはようございます。",
+            "romaji": "Ohayou gozaimasu.",
+            "si": "සුභ උදෑසනක්."
+          },
+          {
+            "speaker": "B",
+            "ja": "おはようございます。",
+            "romaji": "Ohayou gozaimasu.",
+            "si": "සුභ උදෑසනක්."
+          }
+        ],
+        "status": "original_practice_dialogue"
+      },
+      {
+        "id": "l01-dialogue-02",
+        "title_si": "ස්තුතිය පළ කිරීම",
+        "context": "One person helps another.",
+        "lines": [
+          {
+            "speaker": "A",
+            "ja": "どうぞ。",
+            "romaji": "Douzo.",
+            "si": "මෙන්න / ගන්න."
+          },
+          {
+            "speaker": "B",
+            "ja": "ありがとうございます。",
+            "romaji": "Arigatou gozaimasu.",
+            "si": "බොහොම ස්තුතියි."
+          }
+        ],
+        "status": "original_practice_dialogue"
+      }
+    ],
     "listening_scripts": [],
     "reading": [],
-    "tips_for_life_in_japan": []
+    "tips_for_life_in_japan": [
+      {
+        "id": "l01-tip-01",
+        "topic": "Greeting gestures",
+        "summary_si": "ජපානයේ ආචාර කිරීමේදී හිස නමා ආචාර කිරීම (おじぎ) බහුලය. අවස්ථාව අනුව හිස නැමීමේ ගැඹුර වෙනස් විය හැකිය.",
+        "status": "topic_verified_summary_original"
+      },
+      {
+        "id": "l01-tip-02",
+        "topic": "Sayoonara",
+        "summary_si": "さようなら සෑම අවස්ථාවකම භාවිත කරන සාමාන්‍ය 'බායි' එකක් නොවේ. දිනපතා හමුවන අය අතර また明日 (Mata ashita – හෙට නැවත හමුවෙමු) වැනි ප්‍රකාශ වඩාත් ස්වාභාවික විය හැකිය.",
+        "status": "topic_verified_summary_original"
+      },
+      {
+        "id": "l01-tip-03",
+        "topic": "When to use sumimasen",
+        "summary_si": "すみません යන්න සමාව ඉල්ලීමට පමණක් නොව, කෙනෙකුගේ අවධානය ලබාගැනීමට හෝ කුඩා අපහසුතාවකට ප්‍රතිචාර දැක්වීමටද භාවිත වේ.",
+        "status": "topic_verified_summary_original"
+      }
+    ]
   },
   "supplementary_learning": {
-    "grammar_explanations_si": [],
-    "examples": [],
-    "exercises": [],
-    "homework": [],
-    "answer_keys": []
+    "grammar_explanations_si": [
+      {
+        "id": "l01-gx-01",
+        "title_si": "ආචාර වචනවල විධිමත්භාවය",
+        "explanation_si": "ජපන් භාෂාවේ කතා කරන පුද්ගලයා, අසන පුද්ගලයා සහ අවස්ථාව අනුව වචන තෝරාගනී. おはようございます යනු ගෞරවයෙන් කියන ආකාරයයි. おはよう යනු මිතුරන් සහ පවුලේ අය අතර භාවිත වන අවිධිමත් ආකාරයයි.",
+        "examples": [
+          {
+            "ja": "おはようございます。",
+            "romaji": "Ohayou gozaimasu.",
+            "si": "සුභ උදෑසනක්. (ගෞරවයෙන්)"
+          },
+          {
+            "ja": "おはよう。",
+            "romaji": "Ohayou.",
+            "si": "සුභ උදෑසනක්. (හිතවතුන් අතර)"
+          }
+        ],
+        "note": "මෙය අමතර ඉගැන්වීම් පැහැදිලි කිරීමකි; Starter Lesson 1 හි නිල Grammar Notes කොටසක් නැත."
+      }
+    ],
+    "examples": [
+      {
+        "id": "l01-ex-01",
+        "ja": "こんにちは。",
+        "romaji": "Konnichiwa.",
+        "si": "ආයුබෝවන්.",
+        "context": "දිවා කාලයේ"
+      },
+      {
+        "id": "l01-ex-02",
+        "ja": "こんばんは。",
+        "romaji": "Konbanwa.",
+        "si": "සුභ සන්ධ්‍යාවක්.",
+        "context": "සවස"
+      },
+      {
+        "id": "l01-ex-03",
+        "ja": "ありがとうございます。",
+        "romaji": "Arigatou gozaimasu.",
+        "si": "බොහොම ස්තුතියි.",
+        "context": "උදව්වක් ලැබුණු විට"
+      },
+      {
+        "id": "l01-ex-04",
+        "ja": "すみません。",
+        "romaji": "Sumimasen.",
+        "si": "සමාවෙන්න.",
+        "context": "අවධානය ලබාගැනීම හෝ සමාව ඉල්ලීම"
+      },
+      {
+        "id": "l01-ex-05",
+        "ja": "お先に失礼します。",
+        "romaji": "Osaki ni shitsurei shimasu.",
+        "si": "මම කලින් යනවා, අවසරයි.",
+        "context": "වැඩ අවසන් කර අන් අයට පෙර පිටත්වීම"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "l01-q-01",
+        "type": "multiple_choice",
+        "prompt_si": "උදෑසන ගුරුවරයෙකුට ගෞරවයෙන් ආචාර කිරීමට සුදුසු වාක්‍යය කුමක්ද?",
+        "options": [
+          {
+            "id": "a",
+            "ja": "おはようございます",
+            "romaji": "Ohayou gozaimasu"
+          },
+          {
+            "id": "b",
+            "ja": "こんばんは",
+            "romaji": "Konbanwa"
+          },
+          {
+            "id": "c",
+            "ja": "さようなら",
+            "romaji": "Sayounara"
+          }
+        ],
+        "answer": "a",
+        "explanation_si": "උදෑසන ගෞරවයෙන් ආචාර කිරීමට おはようございます භාවිත කරයි."
+      },
+      {
+        "id": "l01-q-02",
+        "type": "multiple_choice",
+        "prompt_si": "කෙනෙකු ඔබට උදව් කළා. ඔබ ස්තුති කරන්නේ කෙසේද?",
+        "options": [
+          {
+            "id": "a",
+            "ja": "すみません",
+            "romaji": "Sumimasen"
+          },
+          {
+            "id": "b",
+            "ja": "ありがとうございます",
+            "romaji": "Arigatou gozaimasu"
+          },
+          {
+            "id": "c",
+            "ja": "こんばんは",
+            "romaji": "Konbanwa"
+          }
+        ],
+        "answer": "b",
+        "explanation_si": "ありがとうございます යනු ගෞරවයෙන් ස්තුති කිරීමයි."
+      },
+      {
+        "id": "l01-q-03",
+        "type": "matching",
+        "prompt_si": "ජපන් ප්‍රකාශය සිංහල අර්ථය සමඟ ගළපන්න.",
+        "pairs": [
+          {
+            "ja": "こんにちは",
+            "si": "ආයුබෝවන්"
+          },
+          {
+            "ja": "ありがとうございます",
+            "si": "බොහොම ස්තුතියි"
+          },
+          {
+            "ja": "すみません",
+            "si": "සමාවෙන්න"
+          }
+        ],
+        "answer_map": {
+          "こんにちは": "ආයුබෝවන්",
+          "ありがとうございます": "බොහොම ස්තුතියි",
+          "すみません": "සමාවෙන්න"
+        }
+      },
+      {
+        "id": "l01-q-04",
+        "type": "fill_blank",
+        "prompt_si": "හිස්තැන පුරවන්න: වැඩබිමෙන් අන් අයට පෙර පිටත්ව යන විට: お先に ________ します。",
+        "answer": "失礼",
+        "romaji": "shitsurei",
+        "explanation_si": "お先に失礼します යනු අන් අයට පෙර පිටත්ව යන විට භාවිත කරන ආචාරශීලී ප්‍රකාශයකි."
+      },
+      {
+        "id": "l01-q-05",
+        "type": "scenario_choice",
+        "prompt_si": "ඔබ රාත්‍රී 8ට අසල්වැසියෙකු හමුවෙයි. වඩාත් සුදුසු ආචාරය කුමක්ද?",
+        "options": [
+          {
+            "id": "a",
+            "ja": "おはようございます"
+          },
+          {
+            "id": "b",
+            "ja": "こんばんは"
+          },
+          {
+            "id": "c",
+            "ja": "お先に失礼します"
+          }
+        ],
+        "answer": "b",
+        "explanation_si": "සවස සහ රාත්‍රියේ こんばんは භාවිත වේ."
+      },
+      {
+        "id": "l01-q-06",
+        "type": "translation",
+        "prompt_si": "'බොහොම ස්තුතියි' ජපන් භාෂාවෙන් ලියන්න.",
+        "answer": "ありがとうございます",
+        "accepted_answers": [
+          "ありがとうございます",
+          "有難うございます"
+        ],
+        "explanation_si": "ගෞරවයෙන් ස්තුති කිරීමේ සාමාන්‍ය ප්‍රකාශය."
+      }
+    ],
+    "homework": [
+      {
+        "id": "l01-hw-01",
+        "title_si": "ආචාර දිනපොත",
+        "task_si": "දවසේ උදෑසන, දහවල්, සවස සහ රාත්‍රිය යන වේලාවන් හතරට ගැළපෙන ආචාර ප්‍රකාශ ලියා එක් එක් ප්‍රකාශය භාවිත කරන පුද්ගලයෙකු හෝ අවස්ථාවක් සඳහන් කරන්න.",
+        "minimum_items": 4
+      },
+      {
+        "id": "l01-hw-02",
+        "title_si": "ශබ්දයෙන් පුහුණුව",
+        "task_si": "おはようございます、こんにちは、こんばんは、ありがとうございます、すみません යන ප්‍රකාශ 5 බැගින් හඬ නඟා කියවා ඔබගේ හඬ පටිගත කර උච්චාරණය පරීක්ෂා කරන්න.",
+        "minimum_repetitions": 5
+      },
+      {
+        "id": "l01-hw-03",
+        "title_si": "කෙටි සංවාද",
+        "task_si": "උදෑසන හමුවීමක්, උදව්වකට ස්තුති කිරීමක් සහ වැඩබිමෙන් පිටත්වීමක් සඳහා වචන 2–4 බැගින් වූ කෙටි සංවාද තුනක් ලියන්න.",
+        "minimum_dialogues": 3
+      },
+      {
+        "id": "l01-hw-04",
+        "title_si": "ස්ටිකර් නිර්මාණය",
+        "task_si": "おはよう、ありがとう、こんにちは යන පණිවිඩ තුනෙන් සරල chat sticker අදහස් තුනක් සකස් කර ඒවායේ භාවිත අවස්ථාව සිංහලෙන් ලියන්න.",
+        "minimum_items": 3
+      }
+    ],
+    "answer_keys": [
+      {
+        "id": "l01-ak-01",
+        "exercise_id": "l01-q-01",
+        "answer": "a",
+        "explanation_si": "おはようございます"
+      },
+      {
+        "id": "l01-ak-02",
+        "exercise_id": "l01-q-02",
+        "answer": "b",
+        "explanation_si": "ありがとうございます"
+      },
+      {
+        "id": "l01-ak-03",
+        "exercise_id": "l01-q-04",
+        "answer": "失礼",
+        "explanation_si": "失礼（しつれい）"
+      },
+      {
+        "id": "l01-ak-04",
+        "exercise_id": "l01-q-05",
+        "answer": "b",
+        "explanation_si": "こんばんは"
+      },
+      {
+        "id": "l01-ak-05",
+        "exercise_id": "l01-q-06",
+        "answer": "ありがとうございます",
+        "explanation_si": "ありがとうございます"
+      }
+    ]
   },
   "asset_mappings": {
     "images": [],
     "audio": []
   },
-  "status": "metadata_only_pending_source_audit",
-  "provenance_note": "This file was created specifically for the new JP Nexus repository. No previous project data has been imported. Content must be populated only after checking the official lesson source."
+  "status": "content_seeded_official_index_audit_partial_full_pdf_audit_pending",
+  "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. No prior project data imported."
 }
