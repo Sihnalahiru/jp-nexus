@@ -1215,7 +1215,24 @@
   },
   "asset_mappings": {
     "images": [],
-    "audio": []
+    "audio": [],
+    "audio_wordlist": [
+      {
+        "filename": "wordlist_X_02-1.mp3",
+        "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
+        "status": "filename_verified_official_index"
+      },
+      {
+        "filename": "wordlist_X_02-2.mp3",
+        "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
+        "status": "filename_verified_official_index"
+      },
+      {
+        "filename": "wordlist_X_02-3.mp3",
+        "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
+        "status": "filename_verified_official_index"
+      }
+    ]
   },
   "status": "content_seeded_official_index_audit_partial_full_pdf_audio_audit_pending",
   "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. Starter Lesson 2 has no official Grammar Notes section; grammar explanations here are supplementary teaching aids. No prior project data imported. Vocabulary entries extracted from the official Starter word list and given original Sinhala glosses."
