@@ -816,7 +816,11 @@
         "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
         "status": "filename_verified_official_index"
       }
-    ]
+    ],
+    "audio_grammar_worksheets": {
+      "status": "not_applicable_official_starter_lesson_has_no_grammar_notes",
+      "tracks": []
+    }
   },
   "status": "content_seeded_official_index_audit_partial_full_pdf_audit_pending",
   "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. No prior project data imported. Vocabulary entries extracted from the official Starter word list and given original Sinhala glosses."
