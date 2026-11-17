@@ -1,28 +1,38 @@
 # Content Status — JP Nexus
 
-## Full-course coverage commitment
+## Scope
+Complete IRODORI Starter A1 Lessons 01–18. The final deliverable must cover the entire course, not samples or demo records.
 
-The deliverable is the complete IRODORI Starter A1 course, Lessons 01–18. No sample-only or demo-only delivery is accepted. Each lesson must include all applicable official learning targets and source-mapped learning sections, plus original Sinhala teaching support and extensive practice.
-
-## Completed in this bulk
-
+## Completed source-mapping work
+- [x] Official Starter lesson list and individual PDF download links mapped for Lessons 01–18
+- [x] Official individual MP3 ZIP download links opened/verified for Lessons 01–18; archives have not yet been extracted
 - [x] Official table-of-contents curriculum map for all 18 lessons
-- [x] All official activity titles and Can-do targets mapped from the Japan Foundation contents PDF
-- [x] Official grammar headings mapped for Lessons 3–18
-- [x] Official Kanji Words lists mapped where provided in the contents PDF
-- [x] Tips for Life in Japan topic headings mapped across the course
-- [x] Lessons 01–02 have initial original Sinhala teaching content and exercises in their lesson JSON files
+- [x] Official supporting resource manifest added: `data/official-resources-manifest.json`
+- [x] Every lesson JSON (01–18) now references the official Starter word list, answer book, compiled Grammar Notes, Kanji Words, Hiragana/Katakana Words and Grammar Worksheets
+- [x] Lessons 01–02 contain initial original Sinhala learning content, examples, dialogues, exercises and homework
 
-Curriculum map: `data/official-curriculum-map.json`
+## Official resources located and checked
+- Starter word list: 74 pages
+- Starter answer book: 46 pages
+- Compiled Grammar Notes: 245 pages (multi-book compilation; Starter section must be isolated)
+- Compiled Kanji Words: 70 pages (multi-book compilation; Starter entries must be isolated)
+- Hiragana/Katakana Words: 6 pages
+- Starter Grammar Worksheets: 53 pages
+- Tips for Life in Japan compilation: official URL verified; large PDF still requires download/local inspection
+- Starter illustrations ZIP: official URL verified; usage restricted to teaching IRODORI and illustrations must not be edited
+- Individual lesson PDFs: all 18 official links present
+- Individual lesson MP3 ZIPs: all 18 official links present; exact track filenames still pending extraction
 
-## Not yet complete — do not mark as verified
+## Still required before completion
+- [ ] Download and audit each of the 18 lesson PDFs page by page
+- [ ] Populate full lesson content for Lessons 03–18 (not just curriculum metadata)
+- [ ] Complete/verify all activity instructions, listening scripts, source page mapping and visual references
+- [ ] Extract full Starter word list and map every vocabulary item to lessons
+- [ ] Isolate and explain all Starter Grammar Notes in Sinhala, with Romaji and original examples
+- [ ] Extract and map Starter Kanji Words and Hiragana/Katakana Words
+- [ ] Extract each lesson audio ZIP and preserve exact original filenames and activity mappings
+- [ ] Create extensive original practice, homework and independently checked answer keys for every lesson
+- [ ] Run complete schema and cross-reference validation
+- [ ] Build and inspect the single master JSON
 
-- [ ] Populate full lesson JSON content for Lessons 03–18
-- [ ] Complete detailed PDF audit for every lesson (activity instructions, examples, page mapping, vocabulary and Kanji)
-- [ ] Add full Sinhala explanations and Romaji examples for all grammar points
-- [ ] Add extensive original practice sets, homework and checked answer keys for all 18 lessons
-- [ ] Verify all lesson audio ZIPs and track mappings individually
-- [ ] Map official illustration references and add only appropriately licensed/owned visual assets
-- [ ] Run full master build, schema validation and cross-reference validation
-
-**Integrity rule:** The curriculum map is verified against the official table of contents, but it is not equivalent to a completed lesson dataset. Never label the whole book complete until all required lesson content and source audits are finished.
+**Integrity note:** Verified official download links and a curriculum map are not a complete lesson dataset. No lesson may be marked fully complete until its applicable content and evidence have been audited. Do not import any previous project data.
