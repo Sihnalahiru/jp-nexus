@@ -48,3 +48,24 @@ Official source pages:
 - [ ] Full master JSON build, schema validation and cross-reference audit
 
 **Integrity:** 79 official word-list audio filenames are verified from the publisher's three index pages. They are not a verification of the main lesson audio ZIP contents. No lesson is marked complete until all required sections are populated and audited.
+
+
+## This bulk — Starter Grammar Notes (Lessons 03–04)
+
+- [x] Lesson 03: six grammar patterns entered with Sinhala explanations and Romaji
+- [x] Lesson 03: original Japanese examples with Romaji and Sinhala meanings
+- [x] Lesson 03: five original practice exercises and three homework tasks
+- [x] Lesson 04: four grammar patterns entered with Sinhala explanations and Romaji
+- [x] Lesson 04: original Japanese examples with Romaji and Sinhala meanings
+- [x] Lesson 04: five original practice exercises and three homework tasks
+- [x] Separate lesson grammar JSON files committed under `data/grammar/`
+
+Files:
+- `data/grammar/lesson-03.json`
+- `data/grammar/lesson-04.json`
+
+Source: https://www.irodori.jpf.go.jp/assets/data/Grammar_all.pdf
+The explanations and exercises are JP Nexus original learning material, checked against the official grammar notes. They are not official Japan Foundation translations.
+
+## Outstanding correction
+- [ ] Lesson 02 official Table of Contents lists a third activity, `これは日本語で何と言いますか？`; the lesson JSON currently contains only the first two activities. This discrepancy was identified in this batch but the attempted GitHub correction did not complete. Do not mark Lesson 02 activity coverage complete.
