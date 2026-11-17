@@ -40,7 +40,23 @@
       "can_do_ref": "Can answer about foods liked and disliked.",
       "task_si": "魚、好きですか？ යන අවස්ථාව සම්බන්ධයෙන් නිවැරදි භාවිතය හඳුනාගන්න.",
       "response_format": "selection",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "අවස්ථාව කියවා/බලා එයට ගැළපෙන ජපන් ප්‍රකාශය තෝරන්න. තේරූ පිළිතුරට හේතුව සිංහලෙන් කෙටියෙන් ලියන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-02",
@@ -50,8 +66,24 @@
       "activity_ref": "わさびは、ちょっと…",
       "can_do_ref": "Can ask and answer about Japanese food preferences.",
       "task_si": "わさびは、ちょっと… යන අවස්ථාව සම්බන්ධයෙන් අදාළ ප්‍රකාශ සහ අර්ථ ගළපන්න.",
-      "response_format": "written_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "matching_pairs",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "ජපන් ප්‍රකාශ, අවස්ථා සහ සිංහල අර්ථ වෙන වෙනම තීරු ලෙස සකසා නිවැරදි යුගල ගළපන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-03",
@@ -61,8 +93,24 @@
       "activity_ref": "お茶、飲みますか？",
       "can_do_ref": "Can respond to an offer of a drink.",
       "task_si": "お茶、飲みますか？ යන අවස්ථාව සම්බන්ධයෙන් නිවැරදි පිළිතුර තෝරන්න.",
-      "response_format": "spoken_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "selection",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "අවස්ථාවට වඩාත් ස්වභාවික ජපන් පිළිතුර තෝරන්න. වැරදි විකල්ප දෙකක් ඇයි නොගැළපෙන්නේද යන්නත් සටහන් කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-04",
@@ -72,8 +120,24 @@
       "activity_ref": "朝ご飯は、あまり食べません",
       "can_do_ref": "Can ask and answer what someone eats for breakfast.",
       "task_si": "朝ご飯は、あまり食べません යන අවස්ථාව සම්බන්ධයෙන් හිස්තැන් නිවැරදිව පුරවන්න.",
-      "response_format": "completed_dialogue",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "text_entry",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "වාක්‍යයේ හිස්තැනට සුදුසු වචනය/particle එක යොදා සම්පූර්ණ වාක්‍යය නැවත ලියන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-05",
@@ -83,8 +147,24 @@
       "activity_ref": "今日の朝ご飯",
       "can_do_ref": "Can write a simple food-photo post.",
       "task_si": "今日の朝ご飯 යන අවස්ථාව සම්බන්ධයෙන් වචන/වාක්‍ය නිවැරදි අනුපිළිවෙළට සකසන්න.",
-      "response_format": "completed_form",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "sortable_sequence",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "දී ඇති වචන/වාක්‍ය කොටස් භාවිතයෙන් නිවැරදි ජපන් අනුපිළිවෙළ සකසා punctuation සමඟ ලියන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-06",
@@ -94,8 +174,24 @@
       "activity_ref": "魚、好きですか？",
       "can_do_ref": "Can answer about foods liked and disliked.",
       "task_si": "魚、好きですか？ යන අවස්ථාව සම්බන්ධයෙන් කෙටි පිළිතුරක් ලියන්න.",
-      "response_format": "selection",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "written_answer",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "ප්‍රශ්නයට පාඩමේ ඉලක්ක භාෂාව භාවිතයෙන් සම්පූර්ණ කෙටි පිළිතුරක් දෙන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-07",
@@ -106,7 +202,23 @@
       "can_do_ref": "Can ask and answer about Japanese food preferences.",
       "task_si": "わさびは、ちょっと… යන අවස්ථාව සම්බන්ධයෙන් සිංහල අදහස ජපන් භාෂාවෙන් කියන්න.",
       "response_format": "written_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "සිංහල අදහසට ගැළපෙන ජපන් වාක්‍යය ලියන්න. ඉලක්ක වචන සහ particles නිවැරදිව යොදන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-08",
@@ -116,8 +228,24 @@
       "activity_ref": "お茶、飲みますか？",
       "can_do_ref": "Can respond to an offer of a drink.",
       "task_si": "お茶、飲みますか？ යන අවස්ථාව සම්බන්ධයෙන් ජපන් අදහස සිංහලෙන් පැහැදිලි කරන්න.",
-      "response_format": "spoken_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "written_answer",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "ජපන් වාක්‍යයේ අර්ථය සිංහලෙන් ලියන්න. වචනයෙන් වචනයට නොව අදහස නිවැරදිව පරිවර්තනය කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-09",
@@ -127,8 +255,24 @@
       "activity_ref": "朝ご飯は、あまり食べません",
       "can_do_ref": "Can ask and answer what someone eats for breakfast.",
       "task_si": "朝ご飯は、あまり食べません යන අවස්ථාව සම්බන්ධයෙන් හඬ නඟා පිළිතුරු දෙන්න.",
-      "response_format": "completed_dialogue",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "spoken_answer",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "දී ඇති cue භාවිතයෙන් ජපන් භාෂාවෙන් හඬ නඟා පිළිතුරු දෙන්න. අවම වශයෙන් දෙවරක් පටිගත කර දෙවැනි උත්සාහය සසඳන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-10",
@@ -138,8 +282,24 @@
       "activity_ref": "今日の朝ご飯",
       "can_do_ref": "Can write a simple food-photo post.",
       "task_si": "今日の朝ご飯 යන අවස්ථාව සම්බන්ධයෙන් සැබෑ ජීවිත සංවාදයක් රඟපාන්න.",
-      "response_format": "completed_form",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "spoken_dialogue",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "භූමිකා දෙකක් සකසා, අවම වශයෙන් turns 8ක ජපන් සංවාදයක් කරන්න. ආරම්භය, ප්‍රතිචාරය සහ අවසන් කිරීම ඇතුළත් කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-11",
@@ -149,8 +309,24 @@
       "activity_ref": "魚、好きですか？",
       "can_do_ref": "Can answer about foods liked and disliked.",
       "task_si": "魚、好きですか？ යන අවස්ථාව සම්බන්ධයෙන් ඇසූ තොරතුරු සටහන් කරන්න.",
-      "response_format": "selection",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "structured_notes",
+      "answer_key_status": "audio_transcript_alignment_pending",
+      "instructions_si": "අදාළ නිල audio ලබාගත් පසු අවම වශයෙන් දෙවරක් අසා පුද්ගලයා, ස්ථානය, වේලාව හෝ ප්‍රධාන අදහස සටහන් කරන්න. Audio mapping තහවුරු වන තුරු transcript එකක් උපකල්පනය නොකරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-12",
@@ -160,8 +336,24 @@
       "activity_ref": "わさびは、ちょっと…",
       "can_do_ref": "Can ask and answer about Japanese food preferences.",
       "task_si": "わさびは、ちょっと… යන අවස්ථාව සම්බන්ධයෙන් කෙටි පාඨයකින් අවශ්‍ය තොරතුරු සොයන්න.",
-      "response_format": "written_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "evidence_and_answer",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "කෙටි දැන්වීම/සටහන/පෝස්ටරයෙන් අවශ්‍ය තොරතුරු සොයා පිළිතුර සමඟ සාක්ෂි වචනය හෝ පේළිය දක්වන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-13",
@@ -171,8 +363,24 @@
       "activity_ref": "お茶、飲みますか？",
       "can_do_ref": "Can respond to an offer of a drink.",
       "task_si": "お茶、飲みますか？ යන අවස්ථාව සම්බන්ධයෙන් අදාළ තොරතුරු පෝරමයට ඇතුළත් කරන්න.",
-      "response_format": "spoken_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "completed_form",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "උදාහරණ තොරතුරු භාවිතයෙන් පෝරමයේ සෑම අවශ්‍ය field එකක්ම පුරවන්න. නම/දිනය/ස්ථානය වැනි දත්ත අනුපිළිවෙළ පරීක්ෂා කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-14",
@@ -183,7 +391,23 @@
       "can_do_ref": "Can ask and answer what someone eats for breakfast.",
       "task_si": "朝ご飯は、あまり食べません යන අවස්ථාව සම්බන්ධයෙන් සංවාදයේ හිස් කොටස සම්පූර්ණ කරන්න.",
       "response_format": "completed_dialogue",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "සංවාදයේ හිස් කොටසට පෙර සහ පසු කථනයට ගැළපෙන ජපන් ප්‍රතිචාරයක් ලියන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-15",
@@ -193,8 +417,24 @@
       "activity_ref": "今日の朝ご飯",
       "can_do_ref": "Can write a simple food-photo post.",
       "task_si": "今日の朝ご飯 යන අවස්ථාව සම්බන්ධයෙන් වැරදි භාවිතය සොයා නිවැරදි කරන්න.",
-      "response_format": "completed_form",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "corrected_text",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "වැරදි වාක්‍යය හඳුනාගෙන නිවැරදි වාක්‍යය ලියන්න. වෙනස් කළ කොටස සහ හේතුව සිංහලෙන් පැහැදිලි කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-16",
@@ -204,8 +444,24 @@
       "activity_ref": "魚、好きですか？",
       "can_do_ref": "Can answer about foods liked and disliked.",
       "task_si": "魚、好きですか？ යන අවස්ථාව සම්බන්ධයෙන් ඉලක්ක වචන භාවිතයෙන් වාක්‍ය සාදන්න.",
-      "response_format": "selection",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "written_sentences",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "පාඩමේ තේමාවට ගැළපෙන වෙනස් ජපන් වාක්‍ය අවම වශයෙන් තුනක් නිර්මාණය කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-17",
@@ -215,8 +471,24 @@
       "activity_ref": "わさびは、ちょっと…",
       "can_do_ref": "Can ask and answer about Japanese food preferences.",
       "task_si": "わさびは、ちょっと… යන අවස්ථාව සම්බන්ධයෙන් දෙදෙනා අතර තොරතුරු හුවමාරු කරන්න.",
-      "response_format": "written_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "paired_exchange",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "තොරතුරු A/B ලෙස බෙදාගෙන, නොදන්නා තොරතුරු අසමින් හිස්තැන් පුරවන්න. පිළිතුරු කලින් නොබලන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-18",
@@ -226,8 +498,24 @@
       "activity_ref": "お茶、飲みますか？",
       "can_do_ref": "Can respond to an offer of a drink.",
       "task_si": "お茶、飲みますか？ යන අවස්ථාව සම්බන්ධයෙන් කෙටි පණිවිඩයක්/සටහනක් ලියන්න.",
-      "response_format": "spoken_answer",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "written_paragraph",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "පාඩමේ තේමාව යටතේ සම්බන්ධිත ජපන් වාක්‍ය 4–6ක කෙටි සටහනක් ලියන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-19",
@@ -237,8 +525,24 @@
       "activity_ref": "朝ご飯は、あまり食べません",
       "can_do_ref": "Can ask and answer what someone eats for breakfast.",
       "task_si": "朝ご飯は、あまり食べません යන අවස්ථාව සම්බන්ධයෙන් සැබෑ ජීවිත අවස්ථාවක් අනුකරණය කරන්න.",
-      "response_format": "completed_dialogue",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "scenario_response",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "සැබෑ ජීවිත අවස්ථාවක් තෝරා, අවශ්‍ය ජපන් ප්‍රකාශ භාවිතයෙන් කාර්යය මුල සිට අවසානය දක්වා ඉටු කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     },
     {
       "id": "l05-ex-20",
@@ -248,8 +552,24 @@
       "activity_ref": "今日の朝ご飯",
       "can_do_ref": "Can write a simple food-photo post.",
       "task_si": "今日の朝ご飯 යන අවස්ථාව සම්බන්ධයෙන් පාඩමේ සියලුම ඉලක්ක නැවත පරීක්ෂා කරන්න.",
-      "response_format": "completed_form",
-      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+      "response_format": "mixed_response",
+      "answer_key_status": "model_answer_and_accepted_variants_pending",
+      "instructions_si": "පාඩමේ activity කිහිපයක් එකට යොදාගෙන කියවීම, ලිවීම සහ කථනය ඇතුළත් කෙටි පරීක්ෂණයක් කරන්න.",
+      "marks": 5,
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_accuracy",
+        "appropriate_politeness_and_context",
+        "pronunciation_or_readability"
+      ],
+      "success_criteria": [
+        "අර්ථය නිවැරදි වීම",
+        "අදාළ lesson context එකට ගැළපීම",
+        "ඉලක්ක ජපන් වචන/රටා නිවැරදිව භාවිතා කිරීම"
+      ],
+      "attempts_allowed": 2,
+      "review_after": "1 day"
     }
   ],
   "homework": [
@@ -266,7 +586,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 15,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "written_note",
+      "review_schedule": "same_day"
     },
     {
       "id": "l05-hw-02",
@@ -281,7 +610,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 25,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "flashcard_set",
+      "review_schedule": "next_day"
     },
     {
       "id": "l05-hw-03",
@@ -296,7 +634,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 30,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "sentence_list",
+      "review_schedule": "day_3"
     },
     {
       "id": "l05-hw-04",
@@ -311,7 +658,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 15,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "audio_recording",
+      "review_schedule": "day_7"
     },
     {
       "id": "l05-hw-05",
@@ -326,7 +682,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 20,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "practice_log",
+      "review_schedule": "same_day"
     },
     {
       "id": "l05-hw-06",
@@ -341,7 +706,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 20,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "reading_log",
+      "review_schedule": "next_day"
     },
     {
       "id": "l05-hw-07",
@@ -356,7 +730,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 25,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "message_draft",
+      "review_schedule": "day_3"
     },
     {
       "id": "l05-hw-08",
@@ -371,7 +754,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 20,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "dialogue_recording",
+      "review_schedule": "day_7"
     },
     {
       "id": "l05-hw-09",
@@ -386,7 +778,16 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 15,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "observation_log",
+      "review_schedule": "same_day"
     },
     {
       "id": "l05-hw-10",
@@ -401,9 +802,46 @@
         "target_language_use",
         "pronunciation_or_readability",
         "independent_recall"
-      ]
+      ],
+      "estimated_minutes": 20,
+      "completion_checklist": [
+        "නියමිත කාර්යය සම්පූර්ණ කළාද?",
+        "ජපන් වචන/වාක්‍ය නිවැරදිද?",
+        "Romaji සහ සිංහල අර්ථය තේරුම් ගත්තාද?",
+        "පොත නොබලා නැවත කළ හැකිද?"
+      ],
+      "submission_format": "self_assessment",
+      "review_schedule": "next_day"
     }
   ],
   "answer_key_policy": "Do not fabricate a single official answer for open speaking/writing tasks. Add model answers and accepted variants only after the exact grammar and lesson source audit.",
-  "status": "original_practice_pack_authored_can_do_aligned_grammar_and_answer_audit_pending"
+  "status": "expanded_practice_pack_with_instructions_rubrics_and_review_schedule_answer_key_pending",
+  "assessment": {
+    "total_exercise_marks": 100,
+    "exercise_count": 20,
+    "homework_count": 10,
+    "mastery_bands": [
+      {
+        "min": 90,
+        "label": "Mastered",
+        "action": "සතියකට පසු mixed review කරන්න."
+      },
+      {
+        "min": 75,
+        "label": "Good progress",
+        "action": "වැරදුණු ප්‍රශ්න නැවත කරන්න."
+      },
+      {
+        "min": 60,
+        "label": "Developing",
+        "action": "අදාළ lesson activities සහ flashcards නැවත අධ්‍යයනය කරන්න."
+      },
+      {
+        "min": 0,
+        "label": "Needs revision",
+        "action": "මූලික vocabulary සහ උදාහරණ සමඟ පාඩම නැවත ඉගෙන ගන්න."
+      }
+    ],
+    "marking_note": "Each exercise is worth 5 marks. Open speaking/writing tasks require human or rubric-based assessment; no automatic exact-answer key should be fabricated."
+  }
 }
