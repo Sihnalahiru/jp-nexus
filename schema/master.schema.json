@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Sihnalahiru/jp-nexus/blob/main/schema/master.schema.json",
+  "title": "JP Nexus IRODORI Starter A1 Master Content",
+  "type": "object",
+  "required": ["schema_version", "project_id", "book", "lessons"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "project_id": { "const": "jp-nexus" },
+    "book": { "$ref": "#/$defs/book" },
+    "lessons": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/lesson" },
+      "minItems": 18,
+      "maxItems": 18
+    },
+    "grammar": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+    "vocabulary": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+    "conversations": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+    "listening": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+    "reading": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+    "exercises": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+    "answer_keys": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+    "assets": { "type": "array", "items": { "$ref": "#/$defs/asset" } }
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "properties": {
+        "ja": { "type": "string" },
+        "romaji": { "type": "string" },
+        "en": { "type": "string" },
+        "si": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "sourceRef": {
+      "type": "object",
+      "required": ["resource", "verification_status"],
+      "properties": {
+        "resource": { "type": "string" },
+        "edition": { "type": ["string", "null"] },
+        "lesson": { "type": ["integer", "null"], "minimum": 1, "maximum": 18 },
+        "printed_page": { "type": ["string", "null"] },
+        "pdf_page": { "type": ["integer", "null"], "minimum": 1 },
+        "section": { "type": ["string", "null"] },
+        "activity_id": { "type": ["string", "null"] },
+        "url": { "type": ["string", "null"], "format": "uri" },
+        "verification_status": {
+          "enum": ["verified", "pending_verification", "not_applicable"]
+        }
+      },
+      "additionalProperties": false
+    },
+    "book": {
+      "type": "object",
+      "required": ["book_id", "title", "level", "lesson_count"],
+      "properties": {
+        "book_id": { "const": "irodori-starter-a1" },
+        "title": { "$ref": "#/$defs/localizedText" },
+        "level": { "const": "A1" },
+        "lesson_count": { "const": 18 }
+      },
+      "additionalProperties": true
+    },
+    "lesson": {
+      "type": "object",
+      "required": ["lesson_number", "lesson_id", "title", "status", "source_refs"],
+      "properties": {
+        "lesson_number": { "type": "integer", "minimum": 1, "maximum": 18 },
+        "lesson_id": { "type": "string", "pattern": "^irodori-st-a1-l[0-9]{2}$" },
+        "title": { "$ref": "#/$defs/localizedText" },
+        "topic": { "$ref": "#/$defs/localizedText" },
+        "can_do": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+        "activities": { "type": "array", "items": { "$ref": "#/$defs/contentRecord" } },
+        "grammar_ids": { "type": "array", "items": { "type": "string" } },
+        "vocabulary_ids": { "type": "array", "items": { "type": "string" } },
+        "kanji_ids": { "type": "array", "items": { "type": "string" } },
+        "conversation_ids": { "type": "array", "items": { "type": "string" } },
+        "listening_ids": { "type": "array", "items": { "type": "string" } },
+        "reading_ids": { "type": "array", "items": { "type": "string" } },
+        "exercise_ids": { "type": "array", "items": { "type": "string" } },
+        "source_refs": { "type": "array", "items": { "$ref": "#/$defs/sourceRef" } },
+        "status": {
+          "enum": ["not_started", "in_progress", "pending_audit", "verified", "complete"]
+        }
+      },
+      "additionalProperties": true
+    },
+    "contentRecord": {
+      "type": "object",
+      "required": ["id", "lesson_id", "content_type", "status", "provenance"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "lesson_id": { "type": "string", "pattern": "^irodori-st-a1-l[0-9]{2}$" },
+        "content_type": {
+          "enum": ["official_reference", "original_explanation", "supplementary_practice", "answer_key"]
+        },
+        "title": { "$ref": "#/$defs/localizedText" },
+        "content": { "$ref": "#/$defs/localizedText" },
+        "status": {
+          "enum": ["draft", "pending_verification", "verified", "approved"]
+        },
+        "provenance": {
+          "type": "object",
+          "required": ["kind"],
+          "properties": {
+            "kind": { "enum": ["official_source_reference", "originally_authored"] },
+            "source_ref": { "type": ["string", "null"] },
+            "authoring_note": { "type": ["string", "null"] }
+          },
+          "additionalProperties": false
+        },
+        "metadata": { "type": "object" }
+      },
+      "additionalProperties": true
+    },
+    "asset": {
+      "type": "object",
+      "required": ["asset_id", "asset_type", "status"],
+      "properties": {
+        "asset_id": { "type": "string" },
+        "asset_type": { "enum": ["image", "audio", "diagram", "other"] },
+        "path": { "type": ["string", "null"] },
+        "source_url": { "type": ["string", "null"], "format": "uri" },
+        "lesson_id": { "type": ["string", "null"] },
+        "activity_id": { "type": ["string", "null"] },
+        "status": { "enum": ["planned", "referenced", "available", "verified", "restricted"] },
+        "rights_note": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
