@@ -73,7 +73,29 @@
   },
   "asset_mappings": {
     "images": [],
-    "audio": []
+    "audio": [],
+    "audio_wordlist": [
+      {
+        "filename": "wordlist_X_04-1.mp3",
+        "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
+        "status": "filename_verified_official_index"
+      },
+      {
+        "filename": "wordlist_X_04-2.mp3",
+        "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
+        "status": "filename_verified_official_index"
+      },
+      {
+        "filename": "wordlist_X_04-3.mp3",
+        "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
+        "status": "filename_verified_official_index"
+      },
+      {
+        "filename": "wordlist_X_04-4.mp3",
+        "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html",
+        "status": "filename_verified_official_index"
+      }
+    ]
   },
   "status": "metadata_only_pending_source_audit",
   "provenance_note": "Official lesson title/topic and curriculum headings are indexed from the Japan Foundation Starter table of contents. Individual PDF and audio ZIP links are verified from the official download page. Detailed PDF, audio track, vocabulary and page audits remain pending. No previous project data imported."
