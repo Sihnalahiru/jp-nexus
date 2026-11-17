@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "source": {
+    "publisher": "The Japan Foundation",
+    "official_download_page": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+    "verified_at": "2026-11-17"
+  },
+  "lesson_count": 18,
+  "topic_groups": [
+    {
+      "topic": "Starting to Speak Japanese",
+      "lessons": [
+        1,
+        2
+      ]
+    },
+    {
+      "topic": "About Myself",
+      "lessons": [
+        3,
+        4
+      ]
+    },
+    {
+      "topic": "My Favorite Foods",
+      "lessons": [
+        5,
+        6
+      ]
+    },
+    {
+      "topic": "Homes and Workplaces",
+      "lessons": [
+        7,
+        8
+      ]
+    },
+    {
+      "topic": "Daily Life",
+      "lessons": [
+        9,
+        10
+      ]
+    },
+    {
+      "topic": "What I Like to Do",
+      "lessons": [
+        11,
+        12
+      ]
+    },
+    {
+      "topic": "Walking around Town",
+      "lessons": [
+        13,
+        14
+      ]
+    },
+    {
+      "topic": "At Stores",
+      "lessons": [
+        15,
+        16
+      ]
+    },
+    {
+      "topic": "Holidays",
+      "lessons": [
+        17,
+        18
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "lesson_number": 1,
+      "lesson_id": "irodori-st-a1-l01",
+      "title_en": "Good morning!",
+      "title_ja": "おはようございます",
+      "topic_en": "Starting to Speak Japanese",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 2,
+      "lesson_id": "irodori-st-a1-l02",
+      "title_en": "I'm sorry, I don't really understand.",
+      "title_ja": "すみません、よくわかりません",
+      "topic_en": "Starting to Speak Japanese",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 3,
+      "lesson_id": "irodori-st-a1-l03",
+      "title_en": "Nice to meet you.",
+      "title_ja": "はじめまして",
+      "topic_en": "About Myself",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 4,
+      "lesson_id": "irodori-st-a1-l04",
+      "title_en": "I live in Tokyo.",
+      "title_ja": "とうきょうにすんでいます",
+      "topic_en": "About Myself",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 5,
+      "lesson_id": "irodori-st-a1-l05",
+      "title_en": "I like udon.",
+      "title_ja": "うどんがすきです",
+      "topic_en": "My Favorite Foods",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 6,
+      "lesson_id": "irodori-st-a1-l06",
+      "title_en": "I'd like a cheeseburger, please.",
+      "title_ja": "チーズバーガーをおねがいします",
+      "topic_en": "My Favorite Foods",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 7,
+      "lesson_id": "irodori-st-a1-l07",
+      "title_en": "There are four rooms.",
+      "title_ja": "へやが4つあります",
+      "topic_en": "Homes and Workplaces",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 8,
+      "lesson_id": "irodori-st-a1-l08",
+      "title_en": "Where is Yamada-san?",
+      "title_ja": "やまださんはどこですか",
+      "topic_en": "Homes and Workplaces",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 9,
+      "lesson_id": "irodori-st-a1-l09",
+      "title_en": "Lunch is from noon to 1 o'clock.",
+      "title_ja": "ひるごはんは12じから1じまでです",
+      "topic_en": "Daily Life",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 10,
+      "lesson_id": "irodori-st-a1-l10",
+      "title_en": "Please lend me the stapler.",
+      "title_ja": "ホッチキスをかしてください",
+      "topic_en": "Daily Life",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 11,
+      "lesson_id": "irodori-st-a1-l11",
+      "title_en": "What kind of manga do you like?",
+      "title_ja": "どんなマンガがすきですか",
+      "topic_en": "What I Like to Do",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 12,
+      "lesson_id": "irodori-st-a1-l12",
+      "title_en": "Do you want to go for a drink together?",
+      "title_ja": "いっしょにのみにいきませんか",
+      "topic_en": "What I Like to Do",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 13,
+      "lesson_id": "irodori-st-a1-l13",
+      "title_en": "Does this bus go to the airport?",
+      "title_ja": "このバスはくうこうにいきますか",
+      "topic_en": "Walking around Town",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 14,
+      "lesson_id": "irodori-st-a1-l14",
+      "title_en": "It's a big building, isn't it.",
+      "title_ja": "おおきいたてものですね",
+      "topic_en": "Walking around Town",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 15,
+      "lesson_id": "irodori-st-a1-l15",
+      "title_en": "I need some batteries.",
+      "title_ja": "でんちがほしいです",
+      "topic_en": "At Stores",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 16,
+      "lesson_id": "irodori-st-a1-l16",
+      "title_en": "How much is this?",
+      "title_ja": "これ、いくらですか",
+      "topic_en": "At Stores",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 17,
+      "lesson_id": "irodori-st-a1-l17",
+      "title_en": "I went to see a movie.",
+      "title_ja": "えいがをみにいきました",
+      "topic_en": "Holidays",
+      "status": "metadata_only_pending_source_audit"
+    },
+    {
+      "lesson_number": 18,
+      "lesson_id": "irodori-st-a1-l18",
+      "title_en": "I want to go to a hot spring.",
+      "title_ja": "おんせんにいきたいです",
+      "topic_en": "Holidays",
+      "status": "metadata_only_pending_source_audit"
+    }
+  ]
+}
