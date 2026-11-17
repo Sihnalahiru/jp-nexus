@@ -32,7 +32,14 @@
       "grammar_worksheets": "https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_X.pdf"
     },
     "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted",
-    "word_list_pdf_url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf"
+    "word_list_pdf_url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+    "word_list_page_range": {
+      "pdf_viewer_pages": [
+        4,
+        6
+      ],
+      "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf"
+    }
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
