@@ -1,0 +1,563 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "resource_type": "official_word_list_audio",
+  "publisher": "The Japan Foundation",
+  "source_pages": [
+    {
+      "lesson_range": "01-06",
+      "url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_01.html"
+    },
+    {
+      "lesson_range": "07-12",
+      "url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_02.html"
+    },
+    {
+      "lesson_range": "13-18",
+      "url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_03.html"
+    }
+  ],
+  "records": [
+    {
+      "lesson_number": 1,
+      "lesson_id": "irodori-st-a1-l01",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_01-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_01-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_01-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_01-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 2,
+      "lesson_id": "irodori-st-a1-l02",
+      "track_count": 3,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_02-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_02-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_02-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 3,
+      "lesson_id": "irodori-st-a1-l03",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_03-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_03-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_03-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_03-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 4,
+      "lesson_id": "irodori-st-a1-l04",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_04-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_04-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_04-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_04-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 5,
+      "lesson_id": "irodori-st-a1-l05",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_05-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_05-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_05-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_05-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_05-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 6,
+      "lesson_id": "irodori-st-a1-l06",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_06-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_06-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_06-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_06-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_06-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 7,
+      "lesson_id": "irodori-st-a1-l07",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_07-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_07-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_07-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_07-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_07-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 8,
+      "lesson_id": "irodori-st-a1-l08",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_08-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_08-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_08-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_08-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 9,
+      "lesson_id": "irodori-st-a1-l09",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_09-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_09-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_09-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_09-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 10,
+      "lesson_id": "irodori-st-a1-l10",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_10-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_10-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_10-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_10-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_10-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 11,
+      "lesson_id": "irodori-st-a1-l11",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_11-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_11-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_11-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_11-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 12,
+      "lesson_id": "irodori-st-a1-l12",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_12-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_12-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_12-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_12-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 13,
+      "lesson_id": "irodori-st-a1-l13",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_13-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_13-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_13-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_13-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_13-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 14,
+      "lesson_id": "irodori-st-a1-l14",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_14-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_14-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_14-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_14-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 15,
+      "lesson_id": "irodori-st-a1-l15",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_15-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_15-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_15-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_15-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_15-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 16,
+      "lesson_id": "irodori-st-a1-l16",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_16-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_16-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_16-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_16-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_16-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 17,
+      "lesson_id": "irodori-st-a1-l17",
+      "track_count": 5,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_17-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_17-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_17-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_17-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 5,
+          "filename": "wordlist_X_17-5.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    },
+    {
+      "lesson_number": 18,
+      "lesson_id": "irodori-st-a1-l18",
+      "track_count": 4,
+      "tracks": [
+        {
+          "track_number": 1,
+          "filename": "wordlist_X_18-1.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 2,
+          "filename": "wordlist_X_18-2.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 3,
+          "filename": "wordlist_X_18-3.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        },
+        {
+          "track_number": 4,
+          "filename": "wordlist_X_18-4.mp3",
+          "status": "exact_filename_verified_on_official_audio_index"
+        }
+      ],
+      "audit_status": "filename_list_verified; audio_content_not_listened_or_timing_audited"
+    }
+  ],
+  "integrity_note": "Exact MP3 filenames are transcribed from the Japan Foundation's three official Starter word-list audio index pages. No filename is generated beyond those listed on the corresponding official page. Track contents, pronunciation timing and word-to-track segmentation have not yet been independently listened to."
+}
