@@ -1,0 +1,794 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "source": {
+    "publisher": "The Japan Foundation",
+    "title": "IRODORI Starter (A1) Official Table of Contents",
+    "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+    "download_page": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+    "scope": "Official activity titles, Can-do numbering, grammar headings, Kanji Words and Tips headings. This is a curriculum map, not a substitute for auditing each lesson PDF and audio."
+  },
+  "lessons": [
+    {
+      "lesson_number": 1,
+      "lesson_id": "irodori-st-a1-l01",
+      "topic_en": "Starting to Speak Japanese",
+      "activity_titles_ja": [
+        "こんにちは",
+        "お先に失礼します",
+        "ありがとうございます",
+        "メッセージスタンプ"
+      ],
+      "can_do_en": [
+        "Can exchange greetings when you meet someone.",
+        "Can say goodbye when leaving.",
+        "Can thank someone or apologize to them.",
+        "Can understand message stickers such as good morning or thanks."
+      ],
+      "official_grammar_headings": [
+        "Hiragana Words",
+        "Hiragana"
+      ],
+      "official_kanji_words": [],
+      "tips_for_life_in_japan_topics": [
+        "Greeting gestures",
+        "Sayoonara",
+        "When to use sumimasen"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 1
+      }
+    },
+    {
+      "lesson_number": 2,
+      "lesson_id": "irodori-st-a1-l02",
+      "topic_en": "Starting to Speak Japanese",
+      "activity_titles_ja": [
+        "もういちど、お願いします",
+        "日本語、できますか？",
+        "これは日本語で何と言いますか？"
+      ],
+      "can_do_en": [
+        "Can ask someone to repeat something.",
+        "Can answer whether you speak Japanese and ask about other languages.",
+        "Can ask how to say something in Japanese and understand the answer."
+      ],
+      "official_grammar_headings": [
+        "Katakana Words",
+        "Katakana"
+      ],
+      "official_kanji_words": [],
+      "tips_for_life_in_japan_topics": [
+        "Residence card",
+        "Oden",
+        "Abbreviations",
+        "Mosquitoes"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 1
+      }
+    },
+    {
+      "lesson_number": 3,
+      "lesson_id": "irodori-st-a1-l03",
+      "topic_en": "About Myself",
+      "activity_titles_ja": [
+        "はじめまして",
+        "名札",
+        "ご出身は？",
+        "申込書"
+      ],
+      "can_do_en": [
+        "Can give a simple self-introduction with name and country or hometown.",
+        "Can write name and country on a name tag.",
+        "Can ask and answer about name and country or hometown.",
+        "Can write full name, nationality and date of birth on a form."
+      ],
+      "official_grammar_headings": [
+        "Nです / N1 は N2 です",
+        "[place] から来ました",
+        "Nは？",
+        "Sか？",
+        "Nも",
+        "Nじゃないです"
+      ],
+      "official_kanji_words": [
+        "名前",
+        "国",
+        "私"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Japanese characters",
+        "How to call someone",
+        "Japanese era names"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 1
+      }
+    },
+    {
+      "lesson_number": 4,
+      "lesson_id": "irodori-st-a1-l04",
+      "topic_en": "About Myself",
+      "activity_titles_ja": [
+        "夫と子どもです",
+        "25歳です",
+        "ペットのジョンです",
+        "友だちと海！"
+      ],
+      "can_do_en": [
+        "Can understand who is who in a family introduction.",
+        "Can ask and answer where someone lives and their age.",
+        "Can ask and answer simple questions about a photograph.",
+        "Can understand a short social media post with help from a photo."
+      ],
+      "official_grammar_headings": [
+        "N1 と N2",
+        "Interrogative expressions + ですか？",
+        "[place] に住んでいます",
+        "N1 の N2"
+      ],
+      "official_kanji_words": [
+        "父",
+        "母",
+        "子ども",
+        "日本"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Major Japanese cities",
+        "Asking a person's age",
+        "The seas of Japan"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 2
+      }
+    },
+    {
+      "lesson_number": 5,
+      "lesson_id": "irodori-st-a1-l05",
+      "topic_en": "My Favorite Foods",
+      "activity_titles_ja": [
+        "魚、好きですか？",
+        "わさびは、ちょっと…",
+        "お茶、飲みますか？",
+        "朝ご飯は、あまり食べません",
+        "今日の朝ご飯"
+      ],
+      "can_do_en": [
+        "Can answer about foods liked and disliked.",
+        "Can ask and answer about Japanese food preferences.",
+        "Can respond to an offer of a drink.",
+        "Can ask and answer what someone eats for breakfast.",
+        "Can write a simple food-photo post."
+      ],
+      "official_grammar_headings": [
+        "Nが好きです / Nは好きじゃないです",
+        "Nはちょっと…",
+        "V-ますか？ / V-る？",
+        "NをV-ます",
+        "V-ません / V-ないです",
+        "Frequency: いつも／よく and あまり V-ません"
+      ],
+      "official_kanji_words": [
+        "水",
+        "食べます",
+        "飲みます"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Japanese food: sashimi, sushi, tempura, udon, soba, curry",
+        "Donburi",
+        "Japanese food foreigners often dislike",
+        "Japanese sake",
+        "Japanese breakfasts"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 3
+      }
+    },
+    {
+      "lesson_number": 6,
+      "lesson_id": "irodori-st-a1-l06",
+      "topic_en": "My Favorite Foods",
+      "activity_titles_ja": [
+        "ハンバーガー店のメニュー",
+        "こちらでおめしあがりですか？",
+        "私はカレーにします",
+        "枝豆2つください",
+        "飲食店の看板"
+      ],
+      "can_do_en": [
+        "Can understand a fast-food menu.",
+        "Can order in a fast-food restaurant.",
+        "Can discuss what to eat with others.",
+        "Can order food and ask for plates or glasses.",
+        "Can understand restaurant signboards."
+      ],
+      "official_grammar_headings": [
+        "N、お願いします / N、ください",
+        "Nにします",
+        "N + number + お願いします／ください",
+        "N（は）ありますか？"
+      ],
+      "official_kanji_words": [
+        "魚",
+        "肉",
+        "好き（な）"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Japanese burger restaurants",
+        "Meal tickets",
+        "Izakaya",
+        "Karaage",
+        "Otsumami",
+        "Beer",
+        "Oshibori and water"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 3
+      }
+    },
+    {
+      "lesson_number": 7,
+      "lesson_id": "irodori-st-a1-l07",
+      "topic_en": "Homes and Workplaces",
+      "activity_titles_ja": [
+        "ここは台所です",
+        "電子レンジはありますか？",
+        "ちょっとせまいです",
+        "アパートに住んでいます",
+        "洗濯機・エアコンのボタン"
+      ],
+      "can_do_en": [
+        "Can understand a simple house tour.",
+        "Can check whether a room has needed items.",
+        "Can describe simply where and how one lives.",
+        "Can ask and answer what kind of house someone lives in.",
+        "Can understand common appliance buttons."
+      ],
+      "official_grammar_headings": [
+        "ここは[place]です",
+        "[place]にNがあります / Nが[number]あります",
+        "ありません / ないです",
+        "ナA-です / イA-いです",
+        "ナA-じゃないです / イA-くないです"
+      ],
+      "official_kanji_words": [
+        "家",
+        "新しい",
+        "広い",
+        "古い"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Japanese houses",
+        "Futon",
+        "Types of Japanese houses",
+        "Japanese address system"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 3
+      }
+    },
+    {
+      "lesson_number": 8,
+      "lesson_id": "irodori-st-a1-l08",
+      "topic_en": "Homes and Workplaces",
+      "activity_titles_ja": [
+        "ここで打ち合わせをします",
+        "食堂にいます",
+        "はさみは、そこにあります",
+        "部屋の表示"
+      ],
+      "can_do_en": [
+        "Can understand a simple workplace room tour.",
+        "Can ask and answer where someone is.",
+        "Can ask and answer where equipment is.",
+        "Can understand room signs."
+      ],
+      "official_grammar_headings": [
+        "[place]でV-ます",
+        "[person]は[place]にいます",
+        "いません / いないです",
+        "[thing]はここ／そこ／あそこにあります",
+        "Nの[location]にあります"
+      ],
+      "official_kanji_words": [
+        "上",
+        "下",
+        "中"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Uniforms",
+        "Tea",
+        "Fax"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 4
+      }
+    },
+    {
+      "lesson_number": 9,
+      "lesson_id": "irodori-st-a1-l09",
+      "topic_en": "Daily Life",
+      "activity_titles_ja": [
+        "何時に起きますか？",
+        "1日のスケジュールを説明します",
+        "スケジュールボード",
+        "私は日曜日がいいです"
+      ],
+      "can_do_en": [
+        "Can ask and answer when someone gets up and sleeps.",
+        "Can understand a simple work schedule explanation.",
+        "Can understand a workplace schedule board.",
+        "Can discuss availability to arrange a schedule."
+      ],
+      "official_grammar_headings": [
+        "[time]にV-ます / [time]ごろV-ます",
+        "[time]から[time]まで",
+        "[date and time]がいいです"
+      ],
+      "official_kanji_words": [
+        "月",
+        "火",
+        "水",
+        "木",
+        "金",
+        "土",
+        "日",
+        "～曜日"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Morning assembly",
+        "Public pools",
+        "Watching a film"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 4
+      }
+    },
+    {
+      "lesson_number": 10,
+      "lesson_id": "irodori-st-a1-l10",
+      "topic_en": "Daily Life",
+      "activity_titles_ja": [
+        "ちょっと手伝ってください",
+        "すみません、いくつですか？",
+        "仕事のメモ",
+        "スマホの充電器、ありますか？",
+        "チェックリスト"
+      ],
+      "can_do_en": [
+        "Can understand short simple work instructions.",
+        "Can confirm key points and ask for repetition.",
+        "Can read a simple handwritten work note.",
+        "Can ask to borrow something at work.",
+        "Can check equipment against a list."
+      ],
+      "official_grammar_headings": [
+        "V-てください / V-て / V-てくれる？",
+        "Nですね (confirmation)",
+        "N、貸してください / 借りてもいいですか / いいですか / ありますか"
+      ],
+      "official_kanji_words": [
+        "朝",
+        "昼",
+        "夜",
+        "～時",
+        "～分",
+        "～半",
+        "～枚"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Japanese-made English expressions",
+        "Charging a smartphone",
+        "24-hour clock"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 4
+      }
+    },
+    {
+      "lesson_number": 11,
+      "lesson_id": "irodori-st-a1-l11",
+      "topic_en": "What I Like to Do",
+      "activity_titles_ja": [
+        "趣味は何ですか？",
+        "「ドラゴンボール」が大好きです",
+        "うちでゆっくりします",
+        "SNSのプロフィール"
+      ],
+      "can_do_en": [
+        "Can answer about hobbies.",
+        "Can ask and answer about hobbies and favorite activities.",
+        "Can ask and answer what someone does on days off.",
+        "Can read a simple social media profile."
+      ],
+      "official_grammar_headings": [
+        "Nは何ですか？",
+        "どんなN",
+        "あまり + negative adjectives",
+        "Frequency words + V-ます / あまり・ぜんぜん + negative",
+        "[person]と[place]でV-ます"
+      ],
+      "official_kanji_words": [
+        "読みます",
+        "聞きます",
+        "見ます",
+        "本",
+        "友だち",
+        "何"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Japanese manga",
+        "Japanese videogames",
+        "Japanese literature",
+        "Soccer / Rugby",
+        "Pachinko"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 4
+      }
+    },
+    {
+      "lesson_number": 12,
+      "lesson_id": "irodori-st-a1-l12",
+      "topic_en": "What I Like to Do",
+      "activity_titles_ja": [
+        "イベントの案内",
+        "来週、夏祭りがありますね",
+        "いっしょに行きましょう",
+        "誘いの返事"
+      ],
+      "can_do_en": [
+        "Can find date, time and place in an event notice.",
+        "Can ask and answer whether someone will attend an event.",
+        "Can say availability when inviting or being invited.",
+        "Can write a reply to an invitation."
+      ],
+      "official_grammar_headings": [
+        "[date/time]に[place]で[event]があります",
+        "Nに行きます",
+        "V-ませんか？",
+        "V-ましょう",
+        "V-に行きます"
+      ],
+      "official_kanji_words": [
+        "～年",
+        "～月",
+        "～日",
+        "今日",
+        "今週",
+        "今度"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Summer festival",
+        "Japanese mountains",
+        "Otoko wa Tsurai yo series",
+        "Karate"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 4
+      }
+    },
+    {
+      "lesson_number": 13,
+      "lesson_id": "irodori-st-a1-l13",
+      "topic_en": "Walking around Town",
+      "activity_titles_ja": [
+        "何番線ですか？",
+        "すみません、今どこですか？",
+        "1時間ぐらいかかります",
+        "市役所まで、どうやって行きますか？",
+        "駅の中の表示"
+      ],
+      "can_do_en": [
+        "Can ask whether a train or bus goes to a destination.",
+        "Can ask for clarification about a station announcement.",
+        "Can say how they commute and how long it takes.",
+        "Can ask and understand directions.",
+        "Can understand common station signs."
+      ],
+      "official_grammar_headings": [
+        "この[vehicle]は[place]に行きますか？",
+        "ここは[place]ですか？",
+        "[vehicle]で来ます",
+        "[time/period]かかります",
+        "[place]で[vehicle]に乗ります／降ります",
+        "[place]から[place]まで"
+      ],
+      "official_kanji_words": [
+        "東",
+        "西",
+        "南",
+        "北",
+        "会社",
+        "来ます",
+        "行きます",
+        "乗ります"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Commuting to work",
+        "Taking public transport"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 5
+      }
+    },
+    {
+      "lesson_number": 14,
+      "lesson_id": "irodori-st-a1-l14",
+      "topic_en": "Walking around Town",
+      "activity_titles_ja": [
+        "トイレはどこですか？",
+        "今、改札の前にいます",
+        "ここは十条商店街です",
+        "街にある看板"
+      ],
+      "can_do_en": [
+        "Can ask where toilets, ATMs and similar places are.",
+        "Can tell someone on the phone where they are.",
+        "Can give simple impressions while being shown around town.",
+        "Can understand opening and closing information on signs."
+      ],
+      "official_grammar_headings": [
+        "[place]にN（は）ありますか？",
+        "Nの[location]にいます",
+        "ナA-なNですね / イA-いNですね"
+      ],
+      "official_kanji_words": [
+        "大きい",
+        "小さい",
+        "高い",
+        "低い",
+        "前",
+        "後ろ",
+        "横"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Coin lockers",
+        "Vending machines",
+        "ATM",
+        "Rivers of Japan",
+        "High-rise buildings",
+        "Wabi-sabi"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 5
+      }
+    },
+    {
+      "lesson_number": 15,
+      "lesson_id": "irodori-st-a1-l15",
+      "topic_en": "At Stores",
+      "activity_titles_ja": [
+        "どこで買えますか？",
+        "フロアガイド",
+        "カメラは何階ですか？",
+        "わあ、かっこいいですね",
+        "ショッピングセンターの表示"
+      ],
+      "can_do_en": [
+        "Can ask where to buy something.",
+        "Can use a store floor guide.",
+        "Can ask staff which floor has an item.",
+        "Can exchange simple comments about products.",
+        "Can understand common shopping-centre signs."
+      ],
+      "official_grammar_headings": [
+        "Nがほしいんですが",
+        "ナA-ですね / イA-いですね; casual exclamations ナA！／イA-い！"
+      ],
+      "official_kanji_words": [
+        "入口",
+        "出口",
+        "～階",
+        "押す",
+        "引く",
+        "安い"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Types of Japanese store",
+        "Counting floors",
+        "Umbrellas",
+        "Words for toilet",
+        "Elevator buttons"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 5
+      }
+    },
+    {
+      "lesson_number": 16,
+      "lesson_id": "irodori-st-a1-l16",
+      "topic_en": "At Stores",
+      "activity_titles_ja": [
+        "1,980円です",
+        "あのTシャツ、いくらですか？",
+        "ひき肉200gください",
+        "こちら、温めますか？",
+        "割引表示"
+      ],
+      "can_do_en": [
+        "Can understand product prices.",
+        "Can ask and understand prices.",
+        "Can say how much or how many they need.",
+        "Can answer common checkout questions.",
+        "Can understand discount signs."
+      ],
+      "official_grammar_headings": [
+        "これ／それ／あれ（は）いくらですか？",
+        "この／その／あのN",
+        "[amount]ずつ"
+      ],
+      "official_kanji_words": [
+        "一",
+        "二",
+        "三",
+        "四",
+        "五",
+        "六",
+        "七",
+        "八",
+        "九",
+        "十"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Japanese bills and coins",
+        "Asking for prices",
+        "Maneki-neko",
+        "Taiyaki",
+        "Korokke",
+        "Onigiri",
+        "Electronic payment"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 6
+      }
+    },
+    {
+      "lesson_number": 17,
+      "lesson_id": "irodori-st-a1-l17",
+      "topic_en": "Holidays",
+      "activity_titles_ja": [
+        "週末は何をしましたか？",
+        "楽しかったです",
+        "家族で水族館に行きました",
+        "料金表",
+        "今、家に着きました"
+      ],
+      "can_do_en": [
+        "Can answer what they did on a day off.",
+        "Can ask and answer about activities and impressions.",
+        "Can understand a simple social media post with a photo.",
+        "Can read a local facility price list.",
+        "Can send a simple message after going somewhere."
+      ],
+      "official_grammar_headings": [
+        "V-ました / V-ませんでした",
+        "何もV-ませんでした / どこにもV-ませんでした",
+        "ナA-でした / イA-かったです",
+        "Nでした",
+        "Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです"
+      ],
+      "official_kanji_words": [
+        "百",
+        "千",
+        "万",
+        "～円",
+        "休み",
+        "映画",
+        "日本語",
+        "勉強します",
+        "買います"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Godzilla",
+        "Aquarium",
+        "Manga-kissa / Internet café"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 6
+      }
+    },
+    {
+      "lesson_number": 18,
+      "lesson_id": "irodori-st-a1-l18",
+      "topic_en": "Holidays",
+      "activity_titles_ja": [
+        "ゴールデンウィークの予定は？",
+        "日本で何がしたい？",
+        "船に乗りました",
+        "はじめて露天風呂に入りました"
+      ],
+      "can_do_en": [
+        "Can ask and answer about what they want to do on days off.",
+        "Can answer what they want to do in Japan.",
+        "Can write a simple social media post about a day off.",
+        "Can talk simply about a trip and impressions."
+      ],
+      "official_grammar_headings": [
+        "V-たいです",
+        "どこかV-ます",
+        "S1。あと、S2。",
+        "[place]へ行きます",
+        "S1。それから、S2。",
+        "S1。それに、S2。／でも"
+      ],
+      "official_kanji_words": [
+        "温泉",
+        "予定",
+        "来週",
+        "会います",
+        "入ります",
+        "旅行します"
+      ],
+      "tips_for_life_in_japan_topics": [
+        "Golden Week",
+        "Tokyo Disney Resort",
+        "Shinkansen",
+        "Climbing Mt. Fuji",
+        "Japanese animation",
+        "Dorayaki",
+        "Yokohama",
+        "Hot springs"
+      ],
+      "source_ref": {
+        "resource": "IRODORI Starter Official Table of Contents",
+        "url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+        "verification_status": "verified_from_official_table_of_contents",
+        "pdf_page": 6
+      }
+    }
+  ]
+}
