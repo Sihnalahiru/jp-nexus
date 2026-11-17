@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "publisher": "The Japan Foundation",
+  "official_landing_page": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
+  "lesson_pdf_url_pattern": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L{NN}.pdf",
+  "lesson_audio_zip_url_pattern": "https://www.irodori.jpf.go.jp/assets/data/starter/audio/X_L{NN}.zip",
+  "note": "PDF URL pattern is observed from official download links. Audio ZIP pattern must be verified individually before use. Never generate audio URLs by assumption.",
+  "records": [
+    {
+      "lesson_number": 1,
+      "lesson_id": "irodori-st-a1-l01",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L01.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 2,
+      "lesson_id": "irodori-st-a1-l02",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L02.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 3,
+      "lesson_id": "irodori-st-a1-l03",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L03.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 4,
+      "lesson_id": "irodori-st-a1-l04",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L04.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 5,
+      "lesson_id": "irodori-st-a1-l05",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L05.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 6,
+      "lesson_id": "irodori-st-a1-l06",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L06.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 7,
+      "lesson_id": "irodori-st-a1-l07",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L07.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 8,
+      "lesson_id": "irodori-st-a1-l08",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L08.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 9,
+      "lesson_id": "irodori-st-a1-l09",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L09.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 10,
+      "lesson_id": "irodori-st-a1-l10",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L10.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 11,
+      "lesson_id": "irodori-st-a1-l11",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L11.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 12,
+      "lesson_id": "irodori-st-a1-l12",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L12.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 13,
+      "lesson_id": "irodori-st-a1-l13",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L13.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 14,
+      "lesson_id": "irodori-st-a1-l14",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L14.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 15,
+      "lesson_id": "irodori-st-a1-l15",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L15.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 16,
+      "lesson_id": "irodori-st-a1-l16",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L16.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 17,
+      "lesson_id": "irodori-st-a1-l17",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L17.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    },
+    {
+      "lesson_number": 18,
+      "lesson_id": "irodori-st-a1-l18",
+      "pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L18.pdf",
+      "pdf_url_status": "official_link_pattern_confirmed_on_download_page",
+      "pdf_text_audit_status": "pending",
+      "pdf_page_count": null,
+      "audio_url": null,
+      "audio_status": "pending_individual_verification"
+    }
+  ]
+}
