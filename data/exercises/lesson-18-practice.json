@@ -1,0 +1,405 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "lesson_number": 18,
+  "lesson_id": "irodori-st-a1-l18",
+  "lesson_topic": "Holidays",
+  "official_activity_coverage": [
+    {
+      "activity_title_ja": "ゴールデンウィークの予定は？",
+      "can_do_en": "Can ask and answer about what they want to do on days off."
+    },
+    {
+      "activity_title_ja": "日本で何がしたい？",
+      "can_do_en": "Can answer what they want to do in Japan."
+    },
+    {
+      "activity_title_ja": "船に乗りました",
+      "can_do_en": "Can write a simple social media post about a day off."
+    },
+    {
+      "activity_title_ja": "はじめて露天風呂に入りました",
+      "can_do_en": "Can talk simply about a trip and impressions."
+    }
+  ],
+  "practice_policy": "JP Nexus original self-study practice. Tasks are aligned to the official lesson topic and Can-do map; they are not copied from the official textbook.",
+  "exercise_count": 20,
+  "homework_count": 10,
+  "exercises": [
+    {
+      "id": "l18-ex-01",
+      "sequence": 1,
+      "level": "foundation",
+      "type": "recognition",
+      "activity_ref": "ゴールデンウィークの予定は？",
+      "can_do_ref": "Can ask and answer about what they want to do on days off.",
+      "task_si": "ゴールデンウィークの予定は？ යන අවස්ථාව සම්බන්ධයෙන් නිවැරදි භාවිතය හඳුනාගන්න.",
+      "response_format": "selection",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-02",
+      "sequence": 2,
+      "level": "foundation",
+      "type": "matching",
+      "activity_ref": "日本で何がしたい？",
+      "can_do_ref": "Can answer what they want to do in Japan.",
+      "task_si": "日本で何がしたい？ යන අවස්ථාව සම්බන්ධයෙන් අදාළ ප්‍රකාශ සහ අර්ථ ගළපන්න.",
+      "response_format": "written_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-03",
+      "sequence": 3,
+      "level": "foundation",
+      "type": "multiple_choice",
+      "activity_ref": "船に乗りました",
+      "can_do_ref": "Can write a simple social media post about a day off.",
+      "task_si": "船に乗りました යන අවස්ථාව සම්බන්ධයෙන් නිවැරදි පිළිතුර තෝරන්න.",
+      "response_format": "spoken_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-04",
+      "sequence": 4,
+      "level": "foundation",
+      "type": "fill_in",
+      "activity_ref": "はじめて露天風呂に入りました",
+      "can_do_ref": "Can talk simply about a trip and impressions.",
+      "task_si": "はじめて露天風呂に入りました යන අවස්ථාව සම්බන්ධයෙන් හිස්තැන් නිවැරදිව පුරවන්න.",
+      "response_format": "completed_dialogue",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-05",
+      "sequence": 5,
+      "level": "foundation",
+      "type": "ordering",
+      "activity_ref": "ゴールデンウィークの予定は？",
+      "can_do_ref": "Can ask and answer about what they want to do on days off.",
+      "task_si": "ゴールデンウィークの予定は？ යන අවස්ථාව සම්බන්ධයෙන් වචන/වාක්‍ය නිවැරදි අනුපිළිවෙළට සකසන්න.",
+      "response_format": "completed_form",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-06",
+      "sequence": 6,
+      "level": "guided",
+      "type": "short_answer",
+      "activity_ref": "日本で何がしたい？",
+      "can_do_ref": "Can answer what they want to do in Japan.",
+      "task_si": "日本で何がしたい？ යන අවස්ථාව සම්බන්ධයෙන් කෙටි පිළිතුරක් ලියන්න.",
+      "response_format": "selection",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-07",
+      "sequence": 7,
+      "level": "guided",
+      "type": "translation_to_japanese",
+      "activity_ref": "船に乗りました",
+      "can_do_ref": "Can write a simple social media post about a day off.",
+      "task_si": "船に乗りました යන අවස්ථාව සම්බන්ධයෙන් සිංහල අදහස ජපන් භාෂාවෙන් කියන්න.",
+      "response_format": "written_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-08",
+      "sequence": 8,
+      "level": "guided",
+      "type": "translation_to_sinhala",
+      "activity_ref": "はじめて露天風呂に入りました",
+      "can_do_ref": "Can talk simply about a trip and impressions.",
+      "task_si": "はじめて露天風呂に入りました යන අවස්ථාව සම්බන්ධයෙන් ජපන් අදහස සිංහලෙන් පැහැදිලි කරන්න.",
+      "response_format": "spoken_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-09",
+      "sequence": 9,
+      "level": "guided",
+      "type": "guided_speaking",
+      "activity_ref": "ゴールデンウィークの予定は？",
+      "can_do_ref": "Can ask and answer about what they want to do on days off.",
+      "task_si": "ゴールデンウィークの予定は？ යන අවස්ථාව සම්බන්ධයෙන් හඬ නඟා පිළිතුරු දෙන්න.",
+      "response_format": "completed_dialogue",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-10",
+      "sequence": 10,
+      "level": "guided",
+      "type": "role_play",
+      "activity_ref": "日本で何がしたい？",
+      "can_do_ref": "Can answer what they want to do in Japan.",
+      "task_si": "日本で何がしたい？ යන අවස්ථාව සම්බන්ධයෙන් සැබෑ ජීවිත සංවාදයක් රඟපාන්න.",
+      "response_format": "completed_form",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-11",
+      "sequence": 11,
+      "level": "guided",
+      "type": "listening_note",
+      "activity_ref": "船に乗りました",
+      "can_do_ref": "Can write a simple social media post about a day off.",
+      "task_si": "船に乗りました යන අවස්ථාව සම්බන්ධයෙන් ඇසූ තොරතුරු සටහන් කරන්න.",
+      "response_format": "selection",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-12",
+      "sequence": 12,
+      "level": "guided",
+      "type": "reading_scan",
+      "activity_ref": "はじめて露天風呂に入りました",
+      "can_do_ref": "Can talk simply about a trip and impressions.",
+      "task_si": "はじめて露天風呂に入りました යන අවස්ථාව සම්බන්ධයෙන් කෙටි පාඨයකින් අවශ්‍ය තොරතුරු සොයන්න.",
+      "response_format": "written_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-13",
+      "sequence": 13,
+      "level": "independent",
+      "type": "form_completion",
+      "activity_ref": "ゴールデンウィークの予定は？",
+      "can_do_ref": "Can ask and answer about what they want to do on days off.",
+      "task_si": "ゴールデンウィークの予定は？ යන අවස්ථාව සම්බන්ධයෙන් අදාළ තොරතුරු පෝරමයට ඇතුළත් කරන්න.",
+      "response_format": "spoken_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-14",
+      "sequence": 14,
+      "level": "independent",
+      "type": "dialogue_completion",
+      "activity_ref": "日本で何がしたい？",
+      "can_do_ref": "Can answer what they want to do in Japan.",
+      "task_si": "日本で何がしたい？ යන අවස්ථාව සම්බන්ධයෙන් සංවාදයේ හිස් කොටස සම්පූර්ණ කරන්න.",
+      "response_format": "completed_dialogue",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-15",
+      "sequence": 15,
+      "level": "independent",
+      "type": "error_correction",
+      "activity_ref": "船に乗りました",
+      "can_do_ref": "Can write a simple social media post about a day off.",
+      "task_si": "船に乗りました යන අවස්ථාව සම්බන්ධයෙන් වැරදි භාවිතය සොයා නිවැරදි කරන්න.",
+      "response_format": "completed_form",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-16",
+      "sequence": 16,
+      "level": "independent",
+      "type": "sentence_building",
+      "activity_ref": "はじめて露天風呂に入りました",
+      "can_do_ref": "Can talk simply about a trip and impressions.",
+      "task_si": "はじめて露天風呂に入りました යන අවස්ථාව සම්බන්ධයෙන් ඉලක්ක වචන භාවිතයෙන් වාක්‍ය සාදන්න.",
+      "response_format": "selection",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-17",
+      "sequence": 17,
+      "level": "independent",
+      "type": "information_gap",
+      "activity_ref": "ゴールデンウィークの予定は？",
+      "can_do_ref": "Can ask and answer about what they want to do on days off.",
+      "task_si": "ゴールデンウィークの予定は？ යන අවස්ථාව සම්බන්ධයෙන් දෙදෙනා අතර තොරතුරු හුවමාරු කරන්න.",
+      "response_format": "written_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-18",
+      "sequence": 18,
+      "level": "independent",
+      "type": "writing",
+      "activity_ref": "日本で何がしたい？",
+      "can_do_ref": "Can answer what they want to do in Japan.",
+      "task_si": "日本で何がしたい？ යන අවස්ථාව සම්බන්ධයෙන් කෙටි පණිවිඩයක්/සටහනක් ලියන්න.",
+      "response_format": "spoken_answer",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-19",
+      "sequence": 19,
+      "level": "independent",
+      "type": "real_life_simulation",
+      "activity_ref": "船に乗りました",
+      "can_do_ref": "Can write a simple social media post about a day off.",
+      "task_si": "船に乗りました යන අවස්ථාව සම්බන්ධයෙන් සැබෑ ජීවිත අවස්ථාවක් අනුකරණය කරන්න.",
+      "response_format": "completed_dialogue",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    },
+    {
+      "id": "l18-ex-20",
+      "sequence": 20,
+      "level": "independent",
+      "type": "mixed_review",
+      "activity_ref": "はじめて露天風呂に入りました",
+      "can_do_ref": "Can talk simply about a trip and impressions.",
+      "task_si": "はじめて露天風呂に入りました යන අවස්ථාව සම්බන්ධයෙන් පාඩමේ සියලුම ඉලක්ක නැවත පරීක්ෂා කරන්න.",
+      "response_format": "completed_form",
+      "answer_key_status": "to_be_authored_after_full_lesson_source_and_grammar_audit"
+    }
+  ],
+  "homework": [
+    {
+      "id": "l18-hw-01",
+      "sequence": 1,
+      "kind": "daily_recall",
+      "task_si": "අද පාඩමේ Can-do ඉලක්ක සියල්ල කියවා, මතකයෙන් උදාහරණයක් බැගින් ලියන්න.",
+      "minimum_requirement": 1,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-02",
+      "sequence": 2,
+      "kind": "vocabulary_cards",
+      "task_si": "පාඩමේ ප්‍රධාන වචන 15ක් තෝරා ජපන්, Romaji සහ සිංහල අර්ථ සමඟ flashcards සාදන්න.",
+      "minimum_requirement": 15,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-03",
+      "sequence": 3,
+      "kind": "sentence_building",
+      "task_si": "පාඩමේ භාෂා රටා භාවිතා කර ඔබේම වාක්‍ය 10ක් ලියන්න.",
+      "minimum_requirement": 10,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-04",
+      "sequence": 4,
+      "kind": "speaking_recording",
+      "task_si": "අදාළ අවස්ථාව ගැන තත්පර 60–90ක ජපන් කථනයක් පටිගත කරන්න.",
+      "minimum_requirement": "60-90 seconds",
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-05",
+      "sequence": 5,
+      "kind": "listening_repeat",
+      "task_si": "අදාළ audio නැවත අසා වාක්‍ය 10ක් shadowing කර උච්චාරණය සටහන් කරන්න.",
+      "minimum_requirement": 10,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-06",
+      "sequence": 6,
+      "kind": "reading_hunt",
+      "task_si": "අදාළ පාඩම් තේමාවට සම්බන්ධ සැබෑ ලේබලයක්/පෝස්ටරයක්/කෙටි පණිවිඩයක් කියවා තොරතුරු 5ක් සටහන් කරන්න.",
+      "minimum_requirement": 5,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-07",
+      "sequence": 7,
+      "kind": "writing_task",
+      "task_si": "පාඩමේ අවස්ථාවට ගැළපෙන ජපන් කෙටි පණිවිඩයක් හෝ සටහනක් ලියන්න.",
+      "minimum_requirement": 1,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-08",
+      "sequence": 8,
+      "kind": "role_play_with_partner",
+      "task_si": "මිතුරෙකු සමඟ අවම වශයෙන් turns 10ක role-play සංවාදයක් කරන්න.",
+      "minimum_requirement": 10,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-09",
+      "sequence": 9,
+      "kind": "real_world_observation",
+      "task_si": "ඔබේ දෛනික ජීවිතයේ මේ පාඩමේ භාෂාව භාවිතා කළ හැකි අවස්ථා 5ක් සොයා ලියන්න.",
+      "minimum_requirement": 5,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    },
+    {
+      "id": "l18-hw-10",
+      "sequence": 10,
+      "kind": "weekly_review",
+      "task_si": "පොත නොබලා පාඩමේ ඉලක්ක නැවත කරන්න; දුර්වල කොටස් ලැයිස්තුගත කර දෙවැනි වරට පුහුණු වන්න.",
+      "minimum_requirement": 1,
+      "evidence": "learner_self_submission",
+      "assessment_rubric": [
+        "task_completion",
+        "meaning_accuracy",
+        "target_language_use",
+        "pronunciation_or_readability",
+        "independent_recall"
+      ]
+    }
+  ],
+  "answer_key_policy": "Do not fabricate a single official answer for open speaking/writing tasks. Add model answers and accepted variants only after the exact grammar and lesson source audit.",
+  "status": "original_practice_pack_authored_can_do_aligned_grammar_and_answer_audit_pending"
+}
