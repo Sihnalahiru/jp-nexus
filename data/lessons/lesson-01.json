@@ -31,7 +31,8 @@
       "hiragana_katakana_words": "https://www.irodori.jpf.go.jp/assets/data/Kana_all.pdf",
       "grammar_worksheets": "https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_X.pdf"
     },
-    "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted"
+    "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted",
+    "word_list_pdf_url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf"
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
@@ -43,7 +44,8 @@
     "listening_scripts": "pending_pdf_audit",
     "tips_for_life_in_japan": "greeting_gestures_sayoonara_sumimasen_topics_verified_from_official_table_of_contents",
     "pdf_page_mapping": "pending",
-    "audio_track_mapping": "pending"
+    "audio_track_mapping": "pending",
+    "vocabulary": "official_wordlist_entries_extracted_and_bilingual_glossed; full page rendering audit pending"
   },
   "content": {
     "can_do": [
@@ -141,76 +143,349 @@
     "grammar": [],
     "vocabulary": [
       {
-        "id": "l01-v-001",
-        "ja": "おはようございます",
-        "romaji": "Ohayou gozaimasu",
-        "si": "සුභ උදෑසනක්",
-        "usage": "උදෑසන ගෞරවයෙන් ආචාර කිරීම",
-        "type": "greeting",
-        "source_status": "core_expression; verify against full lesson PDF"
+        "id": "l01-official-v-001",
+        "ja": "おはよう（ございます）",
+        "romaji": "ohayoo (gozaimasu)",
+        "en": "Good morning.",
+        "si": "සුභ උදෑසනක්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l01-v-002",
-        "ja": "おはよう",
-        "romaji": "Ohayou",
-        "si": "සුභ උදෑසනක්",
-        "usage": "හිතවතුන් අතර අවිධිමත් උදෑසන ආචාරය",
-        "type": "greeting",
-        "source_status": "supplementary"
-      },
-      {
-        "id": "l01-v-003",
+        "id": "l01-official-v-002",
         "ja": "こんにちは",
-        "romaji": "Konnichiwa",
-        "si": "ආයුබෝවන් / සුභ දහවලක්",
-        "usage": "දිවා කාලයේ සාමාන්‍ය ආචාරය",
-        "type": "greeting",
-        "source_status": "core_expression; verify against full lesson PDF"
+        "romaji": "konnichiwa",
+        "en": "Good afternoon.",
+        "si": "ආයුබෝවන් / සුභ දහවලක්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l01-v-004",
+        "id": "l01-official-v-003",
         "ja": "こんばんは",
-        "romaji": "Konbanwa",
-        "si": "සුභ සන්ධ්‍යාවක්",
-        "usage": "සවස හෝ රාත්‍රියේ ආචාරය",
-        "type": "greeting",
-        "source_status": "supplementary"
+        "romaji": "konbanwa",
+        "en": "Good evening.",
+        "si": "සුභ සන්ධ්‍යාවක්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l01-v-005",
-        "ja": "ありがとうございます",
-        "romaji": "Arigatou gozaimasu",
-        "si": "බොහොම ස්තුතියි",
-        "usage": "ගෞරවයෙන් ස්තුති කිරීම",
-        "type": "expression",
-        "source_status": "core_expression"
+        "id": "l01-official-v-004",
+        "ja": "じゃあ、また",
+        "romaji": "jaa, mata",
+        "en": "See you later.",
+        "si": "එහෙනම් නැවත හමුවෙමු.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l01-v-006",
-        "ja": "すみません",
-        "romaji": "Sumimasen",
-        "si": "සමාවෙන්න / සමාවන්න",
-        "usage": "සමාව ඉල්ලීමට හෝ කෙනෙකුගේ අවධානය ගැනීමට",
-        "type": "expression",
-        "source_status": "core_expression"
+        "id": "l01-official-v-005",
+        "ja": "おやすみ（なさい）",
+        "romaji": "oyasumi (nasai)",
+        "en": "Good night.",
+        "si": "සුභ රාත්‍රියක්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l01-v-007",
-        "ja": "さようなら",
-        "romaji": "Sayounara",
-        "si": "සමුගන්නම්",
-        "usage": "දිගු කාලයකට සමුගැනීමේ අවස්ථාවල",
-        "type": "expression",
-        "source_status": "core_expression; context-sensitive"
+        "id": "l01-official-v-006",
+        "ja": "失礼します",
+        "romaji": "shitsureeshimasu",
+        "en": "Good bye.",
+        "si": "සමුගන්නම් / අවසරයි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       },
       {
-        "id": "l01-v-008",
+        "id": "l01-official-v-007",
         "ja": "お先に失礼します",
-        "romaji": "Osaki ni shitsurei shimasu",
-        "si": "මම කලින් පිටත්ව යනවා, අවසරයි",
-        "usage": "අන් අයට පෙර වැඩබිමෙන් පිටත්ව යන විට",
-        "type": "polite_expression",
-        "source_status": "core_expression"
+        "romaji": "osaki ni shitsureeshimasu",
+        "en": "Good bye. (I’ll take my leave before you.)",
+        "si": "මම කලින් පිටත්ව යනවා, අවසරයි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-008",
+        "ja": "お疲れさま（でした）",
+        "romaji": "otsukaresama (deshita)",
+        "en": "Good bye. (Thank you for your hard work.)",
+        "si": "මහන්සියට ස්තුතියි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-009",
+        "ja": "これ",
+        "romaji": "kore",
+        "en": "this",
+        "si": "මේක.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-010",
+        "ja": "あめ",
+        "romaji": "ame",
+        "en": "candy",
+        "si": "කැන්ඩි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-011",
+        "ja": "プレゼント",
+        "romaji": "purezento",
+        "en": "present",
+        "si": "තෑග්ග.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-012",
+        "ja": "ありがとうございます",
+        "romaji": "arigatoo gozaimasu",
+        "en": "Thank you.",
+        "si": "බොහොම ස්තුතියි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-013",
+        "ja": "すみません",
+        "romaji": "sumimasen",
+        "en": "Thank you. / I’m sorry.",
+        "si": "ස්තුතියි / සමාවෙන්න (අවස්ථාව අනුව).",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-014",
+        "ja": "（どうも）ありがとう",
+        "romaji": "(doomo) arigatoo",
+        "en": "Thank you very much.",
+        "si": "බොහොම ස්තුතියි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-015",
+        "ja": "どうも",
+        "romaji": "doomo",
+        "en": "Thanks.",
+        "si": "ස්තුතියි.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-016",
+        "ja": "落としましたよ",
+        "romaji": "otoshimashita yo",
+        "en": "You dropped this.",
+        "si": "ඔබට මේක වැටුණා.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-017",
+        "ja": "どうぞ",
+        "romaji": "doozo",
+        "en": "Here you go.",
+        "si": "මෙන්න / ගන්න.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 2,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-018",
+        "ja": "いいえ",
+        "romaji": "iie",
+        "en": "You’re welcome.",
+        "si": "ඒකට කමක් නැහැ.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 3,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-019",
+        "ja": "わあ",
+        "romaji": "waa",
+        "en": "Oh! (surprise)",
+        "si": "අහ්! / වාව්!",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 3,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-020",
+        "ja": "ごめん",
+        "romaji": "gomen",
+        "en": "Sorry.",
+        "si": "සමාවෙන්න (අවිධිමත්).",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 3,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-021",
+        "ja": "痛い！",
+        "romaji": "itai!",
+        "en": "Ouch!",
+        "si": "ආව්! රිදෙනවා.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 3,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-022",
+        "ja": "おめでとうございます",
+        "romaji": "omedetoo gozaimasu",
+        "en": "Congratulations.",
+        "si": "සුබ පැතුම්.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 3,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
+      },
+      {
+        "id": "l01-official-v-023",
+        "ja": "わかりました",
+        "romaji": "wakarimashita",
+        "en": "I understand.",
+        "si": "මට තේරුණා.",
+        "source_ref": {
+          "resource": "IRODORI Starter Official Word List",
+          "url": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+          "pdf_page": 3,
+          "section": "Lesson 1 word list",
+          "verification_status": "verified_from_official_word_list"
+        },
+        "content_kind": "official_wordlist_entry"
       }
     ],
     "kanji": [],
@@ -515,5 +790,5 @@
     "audio": []
   },
   "status": "content_seeded_official_index_audit_partial_full_pdf_audit_pending",
-  "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. No prior project data imported."
+  "provenance_note": "New JP Nexus authored study content. Official activity names and Can-do summaries are indexed to the Japan Foundation table of contents; supplementary explanations, dialogues, examples and exercises are original. No prior project data imported. Vocabulary entries extracted from the official Starter word list and given original Sinhala glosses."
 }
