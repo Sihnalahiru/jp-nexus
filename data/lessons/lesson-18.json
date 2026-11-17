@@ -22,7 +22,16 @@
     "official_download_index": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
     "status": "official_lesson_pdf_and_audio_links_verified_content_audit_pending",
     "lesson_audio_zip_url": "https://www.irodori.jpf.go.jp/assets/data/starter/audio/18/X_audio_L18.zip",
-    "official_table_of_contents": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf"
+    "official_table_of_contents": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
+    "supporting_resources": {
+      "word_list": "https://www.irodori.jpf.go.jp/assets/data/wordlist_X.pdf",
+      "answer_book": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_answer.pdf",
+      "grammar_notes_compilation": "https://www.irodori.jpf.go.jp/assets/data/Grammar_all.pdf",
+      "kanji_words_compilation": "https://www.irodori.jpf.go.jp/assets/data/Kanji_all.pdf",
+      "hiragana_katakana_words": "https://www.irodori.jpf.go.jp/assets/data/Kana_all.pdf",
+      "grammar_worksheets": "https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_X.pdf"
+    },
+    "audio_link_verification": "individual_mp3_zip_href_verified_on_official_download_page; archive_not_extracted"
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
