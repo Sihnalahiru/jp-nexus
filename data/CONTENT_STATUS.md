@@ -124,3 +124,21 @@ Files: `data/exercises/lesson-01-practice.json` through `data/exercises/lesson-1
 - 540 total practice tasks
 
 Do not mark the course or practice answer-key audit complete.
+
+
+## This bulk — Practice quality upgrade, Lessons 01–18
+
+The 20-exercise / 10-homework volume remains in place. This batch improves the task-level instructions and assessment structure rather than merely increasing counts.
+
+- [x] Updated all 360 exercises with task-specific Sinhala instructions by exercise type
+- [x] Corrected response formats so listening, matching, role-play, ordering, form completion, writing and other tasks use appropriate UI response types
+- [x] Added five-part assessment rubric to each exercise
+- [x] Added success criteria, 5 marks per exercise, two attempts and review-after-one-day metadata
+- [x] Updated all 180 homework tasks with estimated completion times
+- [x] Added homework completion checklists and submission formats
+- [x] Added spaced review schedule metadata (same day, next day, day 3, day 7)
+- [x] Added 100-mark lesson assessment model and mastery bands to every lesson pack
+
+Totals: 18 lessons × 20 exercises = 360; 18 × 10 homework = 180; 540 practice records overall.
+
+**Accuracy boundary:** Task instructions and assessment scaffolds are now more explicit, but they are not yet fully authored textbook-specific questions with verified Japanese model answers. Open speaking/writing tasks require rubric-based assessment. Listening tasks remain dependent on future transcript/audio alignment. Do not mark answer keys verified.
