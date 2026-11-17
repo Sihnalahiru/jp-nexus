@@ -69,3 +69,32 @@ The explanations and exercises are JP Nexus original learning material, checked 
 
 ## Outstanding correction
 - [ ] Lesson 02 official Table of Contents lists a third activity, `これは日本語で何と言いますか？`; the lesson JSON currently contains only the first two activities. This discrepancy was identified in this batch but the attempted GitHub correction did not complete. Do not mark Lesson 02 activity coverage complete.
+
+
+## This bulk — Official Grammar Worksheet Audio (Starter L03–L18)
+
+- [x] Audited all three official Japan Foundation Starter Grammar Worksheet audio index pages
+- [x] Added `data/audio/official-grammar-worksheet-audio-manifest.json`
+- [x] Added `asset_mappings.audio_grammar_worksheets` to all 18 lesson JSON files
+- [x] Lessons 01–02 explicitly marked not applicable because Starter L01–L02 have no Grammar Notes / Grammar Worksheets
+- [x] Preserved exact publisher filenames, including `_Org` reorganized review tracks and Lesson 9 split practice tracks
+- [x] Indexed 79 exact official worksheet MP3 filenames across Lessons 03–18
+
+Official source index pages:
+- https://www.irodori.jpf.go.jp/en/worksheet/audio/starter_01.html
+- https://www.irodori.jpf.go.jp/en/worksheet/audio/starter_02.html
+- https://www.irodori.jpf.go.jp/en/worksheet/audio/starter_03.html
+
+| Lesson | Files | Lesson | Files | Lesson | Files |
+|---:|---:|---:|---:|---:|---:|
+| 01 | 0 (N/A) | 07 | 6 | 13 | 7 |
+| 02 | 0 (N/A) | 08 | 6 | 14 | 4 |
+| 03 | 6 | 09 | 4 | 15 | 2 |
+| 04 | 4 | 10 | 3 | 16 | 3 |
+| 05 | 6 | 11 | 5 | 17 | 7 |
+| 06 | 4 | 12 | 6 | 18 | 6 |
+
+**Important audit boundary:** These 79 records verify filenames and lesson association on the publisher's index pages only. They do not verify playback, audio duration, transcript content, or exact worksheet-question alignment. Do not merge them with the 79 Word List Audio filenames or the Main Lesson Audio family.
+
+## Official source structure reminder
+The Japan Foundation describes Starter as Lessons 1–18 with activities, listening scripts, Kanji Words, Grammar Notes and Tips for Life in Japan; Grammar Notes are absent from Starter Lessons 1 and 2. Source: https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_howto_en.pdf
