@@ -21,7 +21,8 @@
     "lesson_pdf_url": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_L01.pdf",
     "official_download_index": "https://www.irodori.jpf.go.jp/en/starter/pdf.html",
     "table_of_contents": "https://www.irodori.jpf.go.jp/assets/data/starter/pdf/X_contents_en.pdf",
-    "status": "lesson_title_topic_and_can_do_index_verified; full_pdf_page_audit_pending"
+    "status": "official_lesson_pdf_and_audio_links_verified_content_audit_partial",
+    "lesson_audio_zip_url": "https://www.irodori.jpf.go.jp/assets/data/starter/audio/01/X_audio_L01.zip"
   },
   "source_audit": {
     "lesson_title": "verified_from_official_download_index",
