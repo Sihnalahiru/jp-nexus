@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "jp-nexus",
+  "book_id": "irodori-starter-a1",
+  "title": {
+    "en": "IRODORI Japanese for Life in Japan — Starter",
+    "ja": "いろどり 生活の日本語 入門",
+    "si": "ජපානයේ දෛනික ජීවිතය සඳහා ජපන් භාෂාව — ආරම්භක මට්ටම"
+  },
+  "level": "A1",
+  "publisher": "The Japan Foundation",
+  "scope": {
+    "lesson_start": 1,
+    "lesson_end": 18,
+    "lesson_count": 18
+  },
+  "content_policy": {
+    "clean_start": true,
+    "previous_project_data_imported": false,
+    "official_and_supplementary_content_separated": true
+  },
+  "source": {
+    "title": "IRODORI Japanese for Life in Japan — Starter",
+    "publisher": "The Japan Foundation",
+    "official_website": "https://www.irodori.jpf.go.jp/",
+    "verification_status": "source_reference_to_be_checked",
+    "notes": "Record exact edition, source URL, page references, and access date during source audit."
+  },
+  "build_status": "foundation_only",
+  "completion": {
+    "lessons_created": 0,
+    "lessons_verified": 0,
+    "grammar_verified": 0,
+    "vocabulary_verified": 0,
+    "exercises_authored": 0,
+    "answer_keys_verified": 0
+  }
+}
