@@ -26,14 +26,14 @@
     "verification_status": "source_reference_to_be_checked",
     "notes": "Record exact edition, source URL, page references, and access date during source audit."
   },
-  "build_status": "lesson_metadata_scaffolded_content_audit_pending",
+  "build_status": "lesson_01_02_content_seeded_source_audit_partial",
   "completion": {
     "lessons_created": 18,
     "lessons_verified": 0,
     "grammar_verified": 0,
     "vocabulary_verified": 0,
-    "exercises_authored": 0,
-    "answer_keys_verified": 0,
+    "exercises_authored": 14,
+    "answer_keys_verified": 14,
     "lesson_metadata_verified": 18
   }
 }
