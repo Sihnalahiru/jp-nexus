@@ -100,7 +100,31 @@
         "source_url": "https://www.irodori.jpf.go.jp/en/wordlists/audio/starter_02.html",
         "status": "filename_verified_official_index"
       }
-    ]
+    ],
+    "audio_grammar_worksheets": {
+      "source_index_url": "https://www.irodori.jpf.go.jp/en/worksheet/audio/starter_02.html",
+      "tracks": [
+        {
+          "track_index": 1,
+          "filename": "GWS_X_L10_1.mp3",
+          "kind": "worksheet_audio",
+          "status": "exact_filename_verified_official_index"
+        },
+        {
+          "track_index": 2,
+          "filename": "GWS_X_L10_2.mp3",
+          "kind": "worksheet_audio",
+          "status": "exact_filename_verified_official_index"
+        },
+        {
+          "track_index": 3,
+          "filename": "GWS_X_L10_3.mp3",
+          "kind": "worksheet_audio",
+          "status": "exact_filename_verified_official_index"
+        }
+      ],
+      "status": "filename_verified_audio_content_not_yet_listened"
+    }
   },
   "status": "metadata_only_pending_source_audit",
   "provenance_note": "Official lesson title/topic and curriculum headings are indexed from the Japan Foundation Starter table of contents. Individual PDF and audio ZIP links are verified from the official download page. Detailed PDF, audio track, vocabulary and page audits remain pending. No previous project data imported."
